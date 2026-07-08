@@ -8,5 +8,15 @@
     "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moooby/LightsOUTT.MP4",
     "sub_url": "",
     "date_added": 1783520962331
+  },
+  "570670": {
+    "tmdb_id": "570670",
+    "title": "The Invisible Man",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moooby/TheInvisibleMann.mp4",
+    "sub_url": "",
+    "date_added": 1783523855296
   }
 }
