@@ -228,5 +228,15 @@
     "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/the-furious-1080-p/The%20Furious-1080P.mp4",
     "sub_url": "",
     "date_added": 1783612521498
+  },
+  "1290417": {
+    "tmdb_id": "1290417",
+    "title": "Thrash",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/trash_202604/trash.mp4",
+    "sub_url": "",
+    "date_added": 1783648060659
   }
 }
