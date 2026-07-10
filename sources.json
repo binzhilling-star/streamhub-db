@@ -518,5 +518,15 @@
     "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wanpis2_202604/s02ep03.mp4",
     "sub_url": "",
     "date_added": 1783650556577
+  },
+  "111110_S2E4": {
+    "tmdb_id": "111110",
+    "title": "ONE PIECE",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wanpis2_202604/s02ep04.mp4",
+    "sub_url": "",
+    "date_added": 1783650569471
   }
 }
