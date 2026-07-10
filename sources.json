@@ -418,5 +418,15 @@
     "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/roomates_202604/roomates.mp4",
     "sub_url": "",
     "date_added": 1783648780731
+  },
+  "111110_S1E1": {
+    "tmdb_id": "111110",
+    "title": "ONE PIECE",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wanpis2/s01ep01.mp4",
+    "sub_url": "",
+    "date_added": 1783650411883
   }
 }
