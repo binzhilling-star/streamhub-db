@@ -1337,5 +1337,16 @@
     "sub_url": "",
     "date_added": 1783982442305,
     "is_tagalog_dub": false
+  },
+  "76479_S5E1": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/interstillar/daboys%20S05E01.mp4",
+    "sub_url": "",
+    "date_added": 1783982498269,
+    "is_tagalog_dub": false
   }
 }
