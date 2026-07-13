@@ -370,6 +370,17 @@
     "date_added": 1783949875947,
     "is_tagalog_dub": false
   },
+  "1062722": {
+    "tmdb_id": "1062722",
+    "title": "Frankenstein",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/prankentein/prankentein.mp4",
+    "sub_url": "",
+    "date_added": 1783950766327,
+    "is_tagalog_dub": false
+  },
   "1078605": {
     "tmdb_id": "1078605",
     "title": "Weapons",
