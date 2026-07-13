@@ -2107,5 +2107,16 @@
     "sub_url": "",
     "date_added": 1783983919661,
     "is_tagalog_dub": false
+  },
+  "124364_S2E10": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/from_20260423/FfromS02E10.mp4",
+    "sub_url": "",
+    "date_added": 1783983942519,
+    "is_tagalog_dub": false
   }
 }
