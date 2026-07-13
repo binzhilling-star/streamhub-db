@@ -1579,5 +1579,16 @@
     "sub_url": "",
     "date_added": 1783983163232,
     "is_tagalog_dub": false
+  },
+  "124364_S1E3": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/layout_202604/fFromS01E03.mp4",
+    "sub_url": "",
+    "date_added": 1783983175865,
+    "is_tagalog_dub": false
   }
 }
