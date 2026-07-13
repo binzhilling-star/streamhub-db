@@ -2041,5 +2041,16 @@
     "sub_url": "",
     "date_added": 1783983797179,
     "is_tagalog_dub": false
+  },
+  "124364_S1E10": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/from_20260423/Ffrom%20S01E10.mp4",
+    "sub_url": "",
+    "date_added": 1783983856405,
+    "is_tagalog_dub": false
   }
 }
