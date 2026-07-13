@@ -113,6 +113,17 @@
     "sub_url": "",
     "date_added": 1783524211484
   },
+  "341174": {
+    "tmdb_id": "341174",
+    "title": "Fifty Shades Darker",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/mowana16/pipty%20shades%20darkir.mp4",
+    "sub_url": "",
+    "date_added": 1783950607413,
+    "is_tagalog_dub": false
+  },
   "345911": {
     "tmdb_id": "345911",
     "title": "Lights Out",
