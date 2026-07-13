@@ -1238,5 +1238,16 @@
     "sub_url": "",
     "date_added": 1783982316914,
     "is_tagalog_dub": false
+  },
+  "76479_S2E6": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/daboys-s-02-e-01/daboysS02E06.mp4",
+    "sub_url": "",
+    "date_added": 1783982329165,
+    "is_tagalog_dub": false
   }
 }
