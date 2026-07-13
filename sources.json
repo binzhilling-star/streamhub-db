@@ -886,5 +886,16 @@
     "sub_url": "",
     "date_added": 1783950838507,
     "is_tagalog_dub": false
+  },
+  "76479_S1E4": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/daboys-s-01-e-08/daboys%20S01E04.mp4",
+    "sub_url": "",
+    "date_added": 1783950857590,
+    "is_tagalog_dub": false
   }
 }
