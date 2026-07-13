@@ -1909,5 +1909,16 @@
     "sub_url": "",
     "date_added": 1783983657849,
     "is_tagalog_dub": false
+  },
+  "95479_S1E14": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 14,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/jk_20260423/JKS01E14.mp4",
+    "sub_url": "",
+    "date_added": 1783983670404,
+    "is_tagalog_dub": false
   }
 }
