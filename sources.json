@@ -1260,5 +1260,16 @@
     "sub_url": "",
     "date_added": 1783982377336,
     "is_tagalog_dub": false
+  },
+  "76479_S4E6": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 4,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/shelter_202604/daboys%20S04E06.mp4",
+    "sub_url": "",
+    "date_added": 1783982387594,
+    "is_tagalog_dub": false
   }
 }
