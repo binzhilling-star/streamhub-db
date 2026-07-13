@@ -504,6 +504,17 @@
     "date_added": 1783950821611,
     "is_tagalog_dub": false
   },
+  "933260": {
+    "tmdb_id": "933260",
+    "title": "The Substance",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/mhobby/daSubstance.mp4",
+    "sub_url": "",
+    "date_added": 1783983456995,
+    "is_tagalog_dub": false
+  },
   "937278": {
     "tmdb_id": "937278",
     "title": "A Man Called Otto",
