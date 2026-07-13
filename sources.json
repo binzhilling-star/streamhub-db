@@ -1546,5 +1546,16 @@
     "sub_url": "",
     "date_added": 1783983109352,
     "is_tagalog_dub": false
+  },
+  "124364_S1E4": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/layout_202604/FfromS01E04.mp4",
+    "sub_url": "",
+    "date_added": 1783983127745,
+    "is_tagalog_dub": false
   }
 }
