@@ -1568,5 +1568,16 @@
     "sub_url": "",
     "date_added": 1783983146173,
     "is_tagalog_dub": false
+  },
+  "124364_S1E8": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/layout_202604/FfromS01E08.mp4",
+    "sub_url": "",
+    "date_added": 1783983163232,
+    "is_tagalog_dub": false
   }
 }
