@@ -552,6 +552,17 @@
     "date_added": 1783982564330,
     "is_tagalog_dub": false
   },
+  "1197137": {
+    "tmdb_id": "1197137",
+    "title": "Black Phone 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260423_20260423_0318/BlockPhon2.mp4",
+    "sub_url": "",
+    "date_added": 1783982745287,
+    "is_tagalog_dub": false
+  },
   "1198994": {
     "tmdb_id": "1198994",
     "title": "Send Help",
