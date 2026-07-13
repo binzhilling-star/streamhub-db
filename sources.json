@@ -853,5 +853,16 @@
     "sub_url": "",
     "date_added": 1783950446181,
     "is_tagalog_dub": false
+  },
+  "81356_S1E1": {
+    "tmdb_id": "81356",
+    "title": "Sex Education",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/s1e1_20260422_202604/s1e1.mp4",
+    "sub_url": "",
+    "date_added": 1783950795051,
+    "is_tagalog_dub": false
   }
 }
