@@ -1689,5 +1689,16 @@
     "sub_url": "",
     "date_added": 1783983321276,
     "is_tagalog_dub": false
+  },
+  "225171_S1E7": {
+    "tmdb_id": "225171",
+    "title": "Pluribus",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/fluribus-s-01-e-02/FluribusS01E07.mp4",
+    "sub_url": "",
+    "date_added": 1783983332888,
+    "is_tagalog_dub": false
   }
 }
