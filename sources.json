@@ -2283,5 +2283,16 @@
     "sub_url": "",
     "date_added": 1783984190881,
     "is_tagalog_dub": false
+  },
+  "124364_S2E5": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/from_20260423/fFrom%20S02E05.mp4",
+    "sub_url": "",
+    "date_added": 1783984202040,
+    "is_tagalog_dub": false
   }
 }
