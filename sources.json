@@ -397,6 +397,17 @@
     "sub_url": "",
     "date_added": 1783524062935
   },
+  "607844": {
+    "tmdb_id": "607844",
+    "title": "Escape from Mogadishu",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/mhobby/EscapeFromMogadishuuuu.mp4",
+    "sub_url": "",
+    "date_added": 1783983413129,
+    "is_tagalog_dub": false
+  },
   "664413": {
     "tmdb_id": "664413",
     "title": "365 Days",
