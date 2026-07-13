@@ -323,6 +323,17 @@
     "sub_url": "",
     "date_added": 1783648083803
   },
+  "1159831": {
+    "tmdb_id": "1159831",
+    "title": "The Bride!",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/project_20260422/dabride26.mp4",
+    "sub_url": "",
+    "date_added": 1783949904214,
+    "is_tagalog_dub": false
+  },
   "1168190": {
     "tmdb_id": "1168190",
     "title": "The Wrecking Crew",
