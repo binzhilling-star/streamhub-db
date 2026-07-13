@@ -2195,5 +2195,16 @@
     "sub_url": "",
     "date_added": 1783984018746,
     "is_tagalog_dub": false
+  },
+  "124364_S3E8": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/from_20260423/FfromS03E08.mp4",
+    "sub_url": "",
+    "date_added": 1783984031009,
+    "is_tagalog_dub": false
   }
 }
