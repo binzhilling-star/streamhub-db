@@ -743,5 +743,16 @@
     "sub_url": "",
     "date_added": 1783950403683,
     "is_tagalog_dub": false
+  },
+  "85552_S1E6": {
+    "tmdb_id": "85552",
+    "title": "Euphoria",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/s1e8_20260422/s1e6.mp4",
+    "sub_url": "",
+    "date_added": 1783950415324,
+    "is_tagalog_dub": false
   }
 }
