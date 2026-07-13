@@ -1293,5 +1293,16 @@
     "sub_url": "",
     "date_added": 1783982408581,
     "is_tagalog_dub": false
+  },
+  "76479_S5E2": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/shelter_202604/daboys%20S05E02.mp4",
+    "sub_url": "",
+    "date_added": 1783982421022,
+    "is_tagalog_dub": false
   }
 }
