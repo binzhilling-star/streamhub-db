@@ -699,5 +699,16 @@
     "sub_url": "",
     "date_added": 1783950073458,
     "is_tagalog_dub": false
+  },
+  "76479_S1E2": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/s1e1_20260422/s1e2.mp4",
+    "sub_url": "",
+    "date_added": 1783950091912,
+    "is_tagalog_dub": false
   }
 }
