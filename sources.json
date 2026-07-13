@@ -319,6 +319,17 @@
     "date_added": 1783949964487,
     "is_tagalog_dub": false
   },
+  "693134": {
+    "tmdb_id": "693134",
+    "title": "Dune: Part Two",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/interstillar/Dune2.mp4",
+    "sub_url": "",
+    "date_added": 1783982546220,
+    "is_tagalog_dub": false
+  },
   "762975": {
     "tmdb_id": "762975",
     "title": "Purple Hearts",
