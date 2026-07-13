@@ -1018,5 +1018,16 @@
     "sub_url": "",
     "date_added": 1783951061767,
     "is_tagalog_dub": false
+  },
+  "259731_S1E6": {
+    "tmdb_id": "259731",
+    "title": "HIS & HERS",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/daboys-s-01-e-08/his%26hersE6.mp4",
+    "sub_url": "",
+    "date_added": 1783951079197,
+    "is_tagalog_dub": false
   }
 }
