@@ -2030,5 +2030,16 @@
     "sub_url": "",
     "date_added": 1783983785853,
     "is_tagalog_dub": false
+  },
+  "95479_S1E20": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 20,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/jk_20260423/JkS01E20.mp4",
+    "sub_url": "",
+    "date_added": 1783983797179,
+    "is_tagalog_dub": false
   }
 }
