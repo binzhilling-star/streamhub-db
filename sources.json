@@ -1612,5 +1612,16 @@
     "sub_url": "",
     "date_added": 1783983198549,
     "is_tagalog_dub": false
+  },
+  "124364_S1E9": {
+    "tmdb_id": "124364",
+    "title": "FROM",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 9,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/layout_202604/fFromS01E09.mp4",
+    "sub_url": "",
+    "date_added": 1783983210069,
+    "is_tagalog_dub": false
   }
 }
