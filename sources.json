@@ -330,6 +330,17 @@
     "sub_url": "",
     "date_added": 1783648447130
   },
+  "1233413": {
+    "tmdb_id": "1233413",
+    "title": "Sinners",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/project2_202604/siner.mp4",
+    "sub_url": "",
+    "date_added": 1783949753356,
+    "is_tagalog_dub": false
+  },
   "1265609": {
     "tmdb_id": "1265609",
     "title": "War Machine",
