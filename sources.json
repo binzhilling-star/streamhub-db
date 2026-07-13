@@ -146,6 +146,17 @@
     "sub_url": "",
     "date_added": 1783524211484
   },
+  "337167": {
+    "tmdb_id": "337167",
+    "title": "Fifty Shades Freed",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/interstillar/pityshadesofpreed.mp4",
+    "sub_url": "",
+    "date_added": 1783982621822,
+    "is_tagalog_dub": false
+  },
   "341174": {
     "tmdb_id": "341174",
     "title": "Fifty Shades Darker",
