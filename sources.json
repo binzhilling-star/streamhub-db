@@ -538,6 +538,17 @@
     "date_added": 1783989162513,
     "is_tagalog_dub": false
   },
+  "455714": {
+    "tmdb_id": "455714",
+    "title": "Bad Genius",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260503_20260503_0544/BadGenius.mp4",
+    "sub_url": "",
+    "date_added": 1783991315806,
+    "is_tagalog_dub": false
+  },
   "458156": {
     "tmdb_id": "458156",
     "title": "John Wick: Chapter 3 - Parabellum",
