@@ -714,6 +714,17 @@
     "date_added": 1783950554764,
     "is_tagalog_dub": false
   },
+  "465086": {
+    "tmdb_id": "465086",
+    "title": "The Grudge",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TheGrudge.mp4",
+    "sub_url": "",
+    "date_added": 1783993031976,
+    "is_tagalog_dub": false
+  },
   "467905": {
     "tmdb_id": "467905",
     "title": "How to Make a Killing",
