@@ -3878,5 +3878,16 @@
     "sub_url": "",
     "date_added": 1783990516317,
     "is_tagalog_dub": false
+  },
+  "1396_S2E8": {
+    "tmdb_id": "1396",
+    "title": "Breaking Bad",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/2.2_20260502/2.8.mp4",
+    "sub_url": "",
+    "date_added": 1783990527964,
+    "is_tagalog_dub": false
   }
 }
