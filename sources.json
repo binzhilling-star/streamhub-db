@@ -1246,6 +1246,17 @@
     "date_added": 1783989388650,
     "is_tagalog_dub": false
   },
+  "568124": {
+    "tmdb_id": "568124",
+    "title": "Encanto",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/extraction-two/Incanto.mp4",
+    "sub_url": "",
+    "date_added": 1784035066008,
+    "is_tagalog_dub": false
+  },
   "570670": {
     "tmdb_id": "570670",
     "title": "The Invisible Man",
