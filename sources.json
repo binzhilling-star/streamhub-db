@@ -2209,6 +2209,17 @@
     "sub_url": "",
     "date_added": 1783648137916
   },
+  "1268127": {
+    "tmdb_id": "1268127",
+    "title": "Humint",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/humint-1080-p_20260712/HUMINT-1080P.mp4",
+    "sub_url": "",
+    "date_added": 1784026887359,
+    "is_tagalog_dub": false
+  },
   "1272837": {
     "tmdb_id": "1272837",
     "title": "28 Years Later: The Bone Temple",
