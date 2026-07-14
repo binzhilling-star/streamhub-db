@@ -7629,5 +7629,16 @@
     "sub_url": "",
     "date_added": 1784031507669,
     "is_tagalog_dub": false
+  },
+  "127532_S1E8": {
+    "tmdb_id": "127532",
+    "title": "Solo Leveling",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/soloblevbiling2.13/soloblevbiling1-8.mp4",
+    "sub_url": "",
+    "date_added": 1784031528225,
+    "is_tagalog_dub": false
   }
 }
