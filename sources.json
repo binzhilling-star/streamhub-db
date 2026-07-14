@@ -1210,6 +1210,17 @@
     "date_added": 1783984318371,
     "is_tagalog_dub": false
   },
+  "760104": {
+    "tmdb_id": "760104",
+    "title": "X",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/X.mp4",
+    "sub_url": "",
+    "date_added": 1783993259340,
+    "is_tagalog_dub": false
+  },
   "762441": {
     "tmdb_id": "762441",
     "title": "A Quiet Place: Day One",
