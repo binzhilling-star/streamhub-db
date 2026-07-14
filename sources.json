@@ -924,6 +924,17 @@
     "date_added": 1783982546220,
     "is_tagalog_dub": false
   },
+  "696393": {
+    "tmdb_id": "696393",
+    "title": "Cold Storage",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260503_20260503_1456/coldstorage.mp4",
+    "sub_url": "",
+    "date_added": 1783991632321,
+    "is_tagalog_dub": false
+  },
   "756999": {
     "tmdb_id": "756999",
     "title": "The Black Phone",
