@@ -527,6 +527,17 @@
     "sub_url": "",
     "date_added": 1783524430894
   },
+  "803796": {
+    "tmdb_id": "803796",
+    "title": "KPop Demon Hunters",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/KpopDemonHuntersss.mp4",
+    "sub_url": "",
+    "date_added": 1783987856999,
+    "is_tagalog_dub": false
+  },
   "840464": {
     "tmdb_id": "840464",
     "title": "Greenland 2: Migration",
