@@ -1022,6 +1022,17 @@
     "date_added": 1783991497972,
     "is_tagalog_dub": false
   },
+  "786892": {
+    "tmdb_id": "786892",
+    "title": "Furiosa: A Mad Max Saga",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_0516/FuriosaAMadMax.mp4",
+    "sub_url": "",
+    "date_added": 1783992307358,
+    "is_tagalog_dub": false
+  },
   "787699": {
     "tmdb_id": "787699",
     "title": "Wonka",
