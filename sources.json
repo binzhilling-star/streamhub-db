@@ -6144,5 +6144,16 @@
     "sub_url": "",
     "date_added": 1784026192439,
     "is_tagalog_dub": false
+  },
+  "85937_S1E24": {
+    "tmdb_id": "85937",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 24,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/ds-1-9/DS1-24.mp4",
+    "sub_url": "",
+    "date_added": 1784026201601,
+    "is_tagalog_dub": false
   }
 }
