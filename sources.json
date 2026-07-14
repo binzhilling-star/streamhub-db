@@ -3075,5 +3075,16 @@
     "sub_url": "",
     "date_added": 1783988774780,
     "is_tagalog_dub": false
+  },
+  "229891_S1E12": {
+    "tmdb_id": "229891",
+    "title": "Can This Love Be Translated?",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 12,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/ccan-this-love-be-translatedd/CCanThisLoveBeTranslated1.12.mp4",
+    "sub_url": "",
+    "date_added": 1783988789085,
+    "is_tagalog_dub": false
   }
 }
