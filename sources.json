@@ -10,6 +10,17 @@
     "date_added": 1783984172588,
     "is_tagalog_dub": false
   },
+  "350": {
+    "tmdb_id": "350",
+    "title": "The Devil Wears Prada",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TheDevilWearsPrada2006.mp4",
+    "sub_url": "",
+    "date_added": 1783992942820,
+    "is_tagalog_dub": false
+  },
   "550": {
     "tmdb_id": "550",
     "title": "Fight Club",
