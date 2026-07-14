@@ -1038,6 +1038,17 @@
     "date_added": 1784025368743,
     "is_tagalog_dub": false
   },
+  "530915": {
+    "tmdb_id": "530915",
+    "title": "1917",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wonderfulNIGHTMARE/1917.mp4",
+    "sub_url": "",
+    "date_added": 1784034040110,
+    "is_tagalog_dub": true
+  },
   "531876": {
     "tmdb_id": "531876",
     "title": "The Outpost",
