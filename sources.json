@@ -722,6 +722,17 @@
     "date_added": 1783989007564,
     "is_tagalog_dub": false
   },
+  "512196": {
+    "tmdb_id": "512196",
+    "title": "Happy Death Day 2U",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_0516/HappyDeathDay2.mp4",
+    "sub_url": "",
+    "date_added": 1783992336719,
+    "is_tagalog_dub": false
+  },
   "515195": {
     "tmdb_id": "515195",
     "title": "Yesterday",
