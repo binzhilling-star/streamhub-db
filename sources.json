@@ -5737,5 +5737,16 @@
     "sub_url": "",
     "date_added": 1784025466793,
     "is_tagalog_dub": false
+  },
+  "220102_S1E3": {
+    "tmdb_id": "220102",
+    "title": "Spider-Noir",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/taxiDraybir/spayder%20e3.mp4",
+    "sub_url": "",
+    "date_added": 1784025568267,
+    "is_tagalog_dub": false
   }
 }
