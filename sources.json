@@ -2371,5 +2371,16 @@
     "sub_url": "",
     "date_added": 1783984432058,
     "is_tagalog_dub": false
+  },
+  "200875_S1E6": {
+    "tmdb_id": "200875",
+    "title": "IT: Welcome to Derry",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/IT%20Welcome%20to%20Derry%20S01E06%201080p.mp4",
+    "sub_url": "",
+    "date_added": 1783987710104,
+    "is_tagalog_dub": false
   }
 }
