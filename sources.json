@@ -8091,5 +8091,16 @@
     "sub_url": "",
     "date_added": 1784034472123,
     "is_tagalog_dub": false
+  },
+  "287011_S1E6": {
+    "tmdb_id": "287011",
+    "title": "Sold Out on You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/sold-out-onyou-1.2/SoldOutONYOU1.6.mp4",
+    "sub_url": "",
+    "date_added": 1784034492159,
+    "is_tagalog_dub": false
   }
 }
