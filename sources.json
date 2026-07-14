@@ -4021,5 +4021,16 @@
     "sub_url": "",
     "date_added": 1783990736357,
     "is_tagalog_dub": false
+  },
+  "1396_S3E8": {
+    "tmdb_id": "1396",
+    "title": "Breaking Bad",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/2.9_20260502/3.8.mp4",
+    "sub_url": "",
+    "date_added": 1783990746590,
+    "is_tagalog_dub": false
   }
 }
