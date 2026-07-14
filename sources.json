@@ -4318,5 +4318,16 @@
     "sub_url": "",
     "date_added": 1783991178736,
     "is_tagalog_dub": false
+  },
+  "1396_S5E2": {
+    "tmdb_id": "1396",
+    "title": "Breaking Bad",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260503_20260503_0544/5.2.mp4",
+    "sub_url": "",
+    "date_added": 1783991190416,
+    "is_tagalog_dub": false
   }
 }
