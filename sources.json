@@ -2921,5 +2921,16 @@
     "sub_url": "",
     "date_added": 1783988584010,
     "is_tagalog_dub": false
+  },
+  "95479_S3E10": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/beef-1.1/JK3.10.mp4",
+    "sub_url": "",
+    "date_added": 1783988594093,
+    "is_tagalog_dub": false
   }
 }
