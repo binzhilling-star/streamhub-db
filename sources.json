@@ -1606,6 +1606,17 @@
     "date_added": 1783991547914,
     "is_tagalog_dub": false
   },
+  "1234821": {
+    "tmdb_id": "1234821",
+    "title": "Jurassic World Rebirth",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/JurassicWorldRebirth.mp4",
+    "sub_url": "",
+    "date_added": 1783992646208,
+    "is_tagalog_dub": false
+  },
   "1236153": {
     "tmdb_id": "1236153",
     "title": "Mercy",
