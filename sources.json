@@ -21,6 +21,17 @@
     "date_added": 1783982942599,
     "is_tagalog_dub": false
   },
+  "680": {
+    "tmdb_id": "680",
+    "title": "Pulp Fiction",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/PulpFictionn.mp4",
+    "sub_url": "",
+    "date_added": 1783987888354,
+    "is_tagalog_dub": false
+  },
   "1726": {
     "tmdb_id": "1726",
     "title": "Iron Man",
