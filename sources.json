@@ -257,6 +257,17 @@
     "sub_url": "",
     "date_added": 1783524376948
   },
+  "259693": {
+    "tmdb_id": "259693",
+    "title": "The Conjuring 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TheConjuring2.mp4",
+    "sub_url": "",
+    "date_added": 1783992856505,
+    "is_tagalog_dub": false
+  },
   "269149": {
     "tmdb_id": "269149",
     "title": "Zootopia",
