@@ -564,6 +564,17 @@
     "date_added": 1783989905948,
     "is_tagalog_dub": false
   },
+  "345887": {
+    "tmdb_id": "345887",
+    "title": "The Equalizer 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-roundup-ppunishment/Da%20Equalizer%20TWO.mp4",
+    "sub_url": "",
+    "date_added": 1784034741118,
+    "is_tagalog_dub": false
+  },
   "345911": {
     "tmdb_id": "345911",
     "title": "Lights Out",
