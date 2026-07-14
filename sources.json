@@ -3636,5 +3636,16 @@
     "sub_url": "",
     "date_added": 1783990084759,
     "is_tagalog_dub": false
+  },
+  "224263_S1E10": {
+    "tmdb_id": "224263",
+    "title": "Stranger Things: Tales from '85",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/together_202604/1.10.mp4",
+    "sub_url": "",
+    "date_added": 1783990103604,
+    "is_tagalog_dub": false
   }
 }
