@@ -2833,5 +2833,16 @@
     "sub_url": "",
     "date_added": 1783988488453,
     "is_tagalog_dub": false
+  },
+  "95479_S2E3": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/beef-1.1/JK2.3.mp4",
+    "sub_url": "",
+    "date_added": 1783988503344,
+    "is_tagalog_dub": false
   }
 }
