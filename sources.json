@@ -2723,5 +2723,16 @@
     "sub_url": "",
     "date_added": 1783988386317,
     "is_tagalog_dub": false
+  },
+  "95479_S2E14": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 14,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/beef-1.1/JK2.14.mp4",
+    "sub_url": "",
+    "date_added": 1783988395375,
+    "is_tagalog_dub": false
   }
 }
