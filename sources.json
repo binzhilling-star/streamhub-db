@@ -330,6 +330,17 @@
     "sub_url": "",
     "date_added": 1783524317627
   },
+  "399579": {
+    "tmdb_id": "399579",
+    "title": "Alita: Battle Angel",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moby1/AlitaBattleAngel.mp4",
+    "sub_url": "",
+    "date_added": 1783989702178,
+    "is_tagalog_dub": false
+  },
   "405774": {
     "tmdb_id": "405774",
     "title": "Bird Box",
