@@ -6309,5 +6309,16 @@
     "sub_url": "",
     "date_added": 1784026599979,
     "is_tagalog_dub": false
+  },
+  "65942_S1E14": {
+    "tmdb_id": "65942",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 14,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/re-zeros-1s-25/rezero1-14.mp4",
+    "sub_url": "",
+    "date_added": 1784026610345,
+    "is_tagalog_dub": false
   }
 }
