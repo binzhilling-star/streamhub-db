@@ -1097,6 +1097,17 @@
     "sub_url": "",
     "date_added": 1783524283878
   },
+  "939243": {
+    "tmdb_id": "939243",
+    "title": "Sonic the Hedgehog 3",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260503_20260503_1456/sonic3.mp4",
+    "sub_url": "",
+    "date_added": 1783991736051,
+    "is_tagalog_dub": false
+  },
   "950387": {
     "tmdb_id": "950387",
     "title": "A Minecraft Movie",
