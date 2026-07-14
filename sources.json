@@ -667,6 +667,17 @@
     "date_added": 1783949875947,
     "is_tagalog_dub": false
   },
+  "1061474": {
+    "tmdb_id": "1061474",
+    "title": "Superman",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/Soperman.mp4",
+    "sub_url": "",
+    "date_added": 1783988030965,
+    "is_tagalog_dub": false
+  },
   "1062722": {
     "tmdb_id": "1062722",
     "title": "Frankenstein",
