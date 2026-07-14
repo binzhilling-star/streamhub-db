@@ -6958,5 +6958,16 @@
     "sub_url": "",
     "date_added": 1784027439844,
     "is_tagalog_dub": false
+  },
+  "207468_S1E7": {
+    "tmdb_id": "207468",
+    "title": "Kaiju No. 8",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/agent-kim-1-2/Kaijuu1-7.mp4",
+    "sub_url": "",
+    "date_added": 1784027449242,
+    "is_tagalog_dub": false
   }
 }
