@@ -6815,5 +6815,16 @@
     "sub_url": "",
     "date_added": 1784027230197,
     "is_tagalog_dub": false
+  },
+  "276161_S1E8": {
+    "tmdb_id": "276161",
+    "title": "Teach You a Lesson",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/Xrgaon/teackyoualessoon1.8.mp4",
+    "sub_url": "",
+    "date_added": 1784027239303,
+    "is_tagalog_dub": false
   }
 }
