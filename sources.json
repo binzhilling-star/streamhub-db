@@ -84,6 +84,17 @@
     "sub_url": "",
     "date_added": 1783524354181
   },
+  "70160": {
+    "tmdb_id": "70160",
+    "title": "The Hunger Games",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moby1/TheHungerGames1.mp4",
+    "sub_url": "",
+    "date_added": 1783989968084,
+    "is_tagalog_dub": false
+  },
   "82702": {
     "tmdb_id": "82702",
     "title": "How to Train Your Dragon 2",
