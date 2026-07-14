@@ -1887,6 +1887,17 @@
     "date_added": 1783949792201,
     "is_tagalog_dub": false
   },
+  "1110034": {
+    "tmdb_id": "1110034",
+    "title": "Kraken",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/humint-1080-p_202607/kraken.mp4",
+    "sub_url": "",
+    "date_added": 1784025915611,
+    "is_tagalog_dub": false
+  },
   "1114513": {
     "tmdb_id": "1114513",
     "title": "Speak No Evil",
