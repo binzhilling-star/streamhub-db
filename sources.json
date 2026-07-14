@@ -4120,5 +4120,16 @@
     "sub_url": "",
     "date_added": 1783990860750,
     "is_tagalog_dub": false
+  },
+  "1396_S4E4": {
+    "tmdb_id": "1396",
+    "title": "Breaking Bad",
+    "media_type": "tv",
+    "season": 4,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/2.9_20260502/4.4.mp4",
+    "sub_url": "",
+    "date_added": 1783990870614,
+    "is_tagalog_dub": false
   }
 }
