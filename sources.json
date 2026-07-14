@@ -3405,5 +3405,16 @@
     "sub_url": "",
     "date_added": 1783989579112,
     "is_tagalog_dub": false
+  },
+  "285838_S1E5": {
+    "tmdb_id": "285838",
+    "title": "If Wishes Could Kill",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/you_202604/1.5.mp4",
+    "sub_url": "",
+    "date_added": 1783989590973,
+    "is_tagalog_dub": false
   }
 }
