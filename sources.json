@@ -289,6 +289,17 @@
     "date_added": 1783950607413,
     "is_tagalog_dub": false
   },
+  "343668": {
+    "tmdb_id": "343668",
+    "title": "Kingsman: The Golden Circle",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moby1/KingsmanTheGoldenCircle.mp4",
+    "sub_url": "",
+    "date_added": 1783989905948,
+    "is_tagalog_dub": false
+  },
   "345911": {
     "tmdb_id": "345911",
     "title": "Lights Out",
