@@ -474,6 +474,17 @@
     "date_added": 1783983413129,
     "is_tagalog_dub": false
   },
+  "609681": {
+    "tmdb_id": "609681",
+    "title": "The Marvels",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/TheMarvelss.mp4",
+    "sub_url": "",
+    "date_added": 1783988058839,
+    "is_tagalog_dub": false
+  },
   "651070": {
     "tmdb_id": "651070",
     "title": "A Fall from Grace",
