@@ -823,6 +823,17 @@
     "date_added": 1783989785568,
     "is_tagalog_dub": false
   },
+  "496243": {
+    "tmdb_id": "496243",
+    "title": "Parasite",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/taxiDraybir/Parasite.mp4",
+    "sub_url": "",
+    "date_added": 1784025505912,
+    "is_tagalog_dub": false
+  },
   "497582": {
     "tmdb_id": "497582",
     "title": "Enola Holmes",
