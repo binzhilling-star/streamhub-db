@@ -713,6 +713,17 @@
     "sub_url": "",
     "date_added": 1783524196443
   },
+  "480414": {
+    "tmdb_id": "480414",
+    "title": "The Curse of La Llorona",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TheCurseOfLalarona.mp4",
+    "sub_url": "",
+    "date_added": 1783992914146,
+    "is_tagalog_dub": false
+  },
   "495764": {
     "tmdb_id": "495764",
     "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
