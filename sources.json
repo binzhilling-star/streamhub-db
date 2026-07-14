@@ -7750,5 +7750,16 @@
     "sub_url": "",
     "date_added": 1784031955037,
     "is_tagalog_dub": false
+  },
+  "127532_S2E6": {
+    "tmdb_id": "127532",
+    "title": "Solo Leveling",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/soloblevbiling2.13/soloblevbiling2.6.mp4",
+    "sub_url": "",
+    "date_added": 1784031965941,
+    "is_tagalog_dub": false
   }
 }
