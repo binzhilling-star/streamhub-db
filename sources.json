@@ -6573,5 +6573,16 @@
     "sub_url": "",
     "date_added": 1784026960478,
     "is_tagalog_dub": false
+  },
+  "94997_S1E2": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/Xrgaon/HouseoftheDragon1-2.mp4",
+    "sub_url": "",
+    "date_added": 1784026986769,
+    "is_tagalog_dub": false
   }
 }
