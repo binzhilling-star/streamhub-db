@@ -677,6 +677,17 @@
     "sub_url": "",
     "date_added": 1783648715509
   },
+  "1084187": {
+    "tmdb_id": "1084187",
+    "title": "Pretty Lethal",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/longday_202604/PrettyLethal.mp4",
+    "sub_url": "",
+    "date_added": 1783987873644,
+    "is_tagalog_dub": false
+  },
   "1100988": {
     "tmdb_id": "1100988",
     "title": "28 Years Later",
