@@ -1323,6 +1323,17 @@
     "sub_url": "",
     "date_added": 1783648888480
   },
+  "1383731": {
+    "tmdb_id": "1383731",
+    "title": "Protector",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moby1/Protector.mp4",
+    "sub_url": "",
+    "date_added": 1783989954346,
+    "is_tagalog_dub": false
+  },
   "1493859": {
     "tmdb_id": "1493859",
     "title": "Pizza Movie",
