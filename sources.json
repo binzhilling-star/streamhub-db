@@ -1045,6 +1045,17 @@
     "date_added": 1783991632321,
     "is_tagalog_dub": false
   },
+  "726139": {
+    "tmdb_id": "726139",
+    "title": "Project Silence",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/ProjectSilencee.mp4",
+    "sub_url": "",
+    "date_added": 1783992775667,
+    "is_tagalog_dub": false
+  },
   "756999": {
     "tmdb_id": "756999",
     "title": "The Black Phone",
