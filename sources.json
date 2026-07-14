@@ -74,6 +74,17 @@
     "date_added": 1783982580918,
     "is_tagalog_dub": false
   },
+  "49026": {
+    "tmdb_id": "49026",
+    "title": "The Dark Knight Rises",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/saving-private-ryan_202605/theDarkknightRises.mp4",
+    "sub_url": "",
+    "date_added": 1783990970444,
+    "is_tagalog_dub": false
+  },
   "68721": {
     "tmdb_id": "68721",
     "title": "Iron Man 3",
