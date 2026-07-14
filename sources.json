@@ -543,6 +543,17 @@
     "sub_url": "",
     "date_added": 1783524039634
   },
+  "524434": {
+    "tmdb_id": "524434",
+    "title": "Eternals",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/moby1/Eternals.mp4",
+    "sub_url": "",
+    "date_added": 1783989818809,
+    "is_tagalog_dub": false
+  },
   "526896": {
     "tmdb_id": "526896",
     "title": "Morbius",
