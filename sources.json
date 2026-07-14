@@ -931,6 +931,17 @@
     "sub_url": "",
     "date_added": 1783524497345
   },
+  "508943": {
+    "tmdb_id": "508943",
+    "title": "Luca",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wonderfulNIGHTMARE/Lucaa.mp4",
+    "sub_url": "",
+    "date_added": 1784034104980,
+    "is_tagalog_dub": false
+  },
   "511987": {
     "tmdb_id": "511987",
     "title": "Crawl",
