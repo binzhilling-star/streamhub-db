@@ -7255,5 +7255,16 @@
     "sub_url": "",
     "date_added": 1784027773751,
     "is_tagalog_dub": false
+  },
+  "287009_S1E5": {
+    "tmdb_id": "287009",
+    "title": "Doctor on the Edge",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/doctorr-on-the-edgee-1-3/DoctorrOnTheEDGEE1-5.mp4",
+    "sub_url": "",
+    "date_added": 1784027782981,
+    "is_tagalog_dub": false
   }
 }
