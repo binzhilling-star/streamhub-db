@@ -1385,6 +1385,17 @@
     "date_added": 1783992086567,
     "is_tagalog_dub": false
   },
+  "829280": {
+    "tmdb_id": "829280",
+    "title": "Enola Holmes 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/bakrooms/enula2.mp4",
+    "sub_url": "",
+    "date_added": 1784025116033,
+    "is_tagalog_dub": false
+  },
   "840464": {
     "tmdb_id": "840464",
     "title": "Greenland 2: Migration",
