@@ -5638,5 +5638,16 @@
     "sub_url": "",
     "date_added": 1784025400227,
     "is_tagalog_dub": false
+  },
+  "273240_S1E4": {
+    "tmdb_id": "273240",
+    "title": "Off Campus",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/midsomar_202607/offcampus4.mp4",
+    "sub_url": "",
+    "date_added": 1784025409395,
+    "is_tagalog_dub": false
   }
 }
