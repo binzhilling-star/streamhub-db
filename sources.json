@@ -1569,6 +1569,17 @@
     "date_added": 1783991563147,
     "is_tagalog_dub": false
   },
+  "1071585": {
+    "tmdb_id": "1071585",
+    "title": "M3GAN 2.0",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/m3gan2.mp4",
+    "sub_url": "",
+    "date_added": 1783993301243,
+    "is_tagalog_dub": false
+  },
   "1075794": {
     "tmdb_id": "1075794",
     "title": "Leo",
