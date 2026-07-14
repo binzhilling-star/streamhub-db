@@ -5011,5 +5011,16 @@
     "sub_url": "",
     "date_added": 1783992561647,
     "is_tagalog_dub": false
+  },
+  "100088_S2E3": {
+    "tmdb_id": "100088",
+    "title": "The Last of Us",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/2.3.mp4",
+    "sub_url": "",
+    "date_added": 1783992573957,
+    "is_tagalog_dub": false
   }
 }
