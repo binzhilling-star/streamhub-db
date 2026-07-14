@@ -1112,6 +1112,17 @@
     "date_added": 1783982525910,
     "is_tagalog_dub": false
   },
+  "667538": {
+    "tmdb_id": "667538",
+    "title": "Transformers: Rise of the Beasts",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TransformerRiseOftheBeast.mp4",
+    "sub_url": "",
+    "date_added": 1783993205003,
+    "is_tagalog_dub": false
+  },
   "675353": {
     "tmdb_id": "675353",
     "title": "Sonic the Hedgehog 2",
