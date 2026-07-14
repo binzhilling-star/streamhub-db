@@ -837,6 +837,17 @@
     "date_added": 1783982525910,
     "is_tagalog_dub": false
   },
+  "675353": {
+    "tmdb_id": "675353",
+    "title": "Sonic the Hedgehog 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260503_20260503_1456/SonicTheHedge2.mp4",
+    "sub_url": "",
+    "date_added": 1783991469557,
+    "is_tagalog_dub": false
+  },
   "680493": {
     "tmdb_id": "680493",
     "title": "Return to Silent Hill",
