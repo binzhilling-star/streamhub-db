@@ -2800,5 +2800,16 @@
     "sub_url": "",
     "date_added": 1783988456728,
     "is_tagalog_dub": false
+  },
+  "95479_S2E21": {
+    "tmdb_id": "95479",
+    "title": "JUJUTSU KAISEN",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 21,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/beef-1.1/JK2.21.mp4",
+    "sub_url": "",
+    "date_added": 1783988468636,
+    "is_tagalog_dub": false
   }
 }
