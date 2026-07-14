@@ -560,6 +560,17 @@
     "date_added": 1783983394184,
     "is_tagalog_dub": false
   },
+  "440021": {
+    "tmdb_id": "440021",
+    "title": "Happy Death Day",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_0516/HappyDeathDay1.mp4",
+    "sub_url": "",
+    "date_added": 1783992326751,
+    "is_tagalog_dub": false
+  },
   "447332": {
     "tmdb_id": "447332",
     "title": "A Quiet Place",
