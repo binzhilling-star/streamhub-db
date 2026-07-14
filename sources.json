@@ -2558,5 +2558,16 @@
     "sub_url": "",
     "date_added": 1783987838377,
     "is_tagalog_dub": false
+  },
+  "154385_S1E1": {
+    "tmdb_id": "154385",
+    "title": "BEEF",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/beef-1.1/BEEF1.1.mp4",
+    "sub_url": "",
+    "date_added": 1783988217248,
+    "is_tagalog_dub": false
   }
 }
