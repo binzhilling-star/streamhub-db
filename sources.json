@@ -32,6 +32,17 @@
     "date_added": 1783982942599,
     "is_tagalog_dub": false
   },
+  "641": {
+    "tmdb_id": "641",
+    "title": "Requiem for a Dream",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/taxiDraybir/Requemfor%20Dream.mp4",
+    "sub_url": "",
+    "date_added": 1784025525918,
+    "is_tagalog_dub": false
+  },
   "680": {
     "tmdb_id": "680",
     "title": "Pulp Fiction",
