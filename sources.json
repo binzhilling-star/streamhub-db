@@ -7948,5 +7948,16 @@
     "sub_url": "",
     "date_added": 1784034293375,
     "is_tagalog_dub": false
+  },
+  "278573_S1E5": {
+    "tmdb_id": "278573",
+    "title": "Perfect Crown",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/perfect-crownn-1-1/PerfectCrownn1-5.mp4",
+    "sub_url": "",
+    "date_added": 1784034302953,
+    "is_tagalog_dub": false
   }
 }
