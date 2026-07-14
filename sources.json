@@ -812,6 +812,17 @@
     "date_added": 1783989785568,
     "is_tagalog_dub": false
   },
+  "497582": {
+    "tmdb_id": "497582",
+    "title": "Enola Holmes",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/bakrooms/enula1.mp4",
+    "sub_url": "",
+    "date_added": 1784025108092,
+    "is_tagalog_dub": false
+  },
   "501170": {
     "tmdb_id": "501170",
     "title": "Doctor Sleep",
