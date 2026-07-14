@@ -3746,5 +3746,16 @@
     "sub_url": "",
     "date_added": 1783990261671,
     "is_tagalog_dub": false
+  },
+  "1396_S1E7": {
+    "tmdb_id": "1396",
+    "title": "Breaking Bad",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/1.1_20260502/1.7.mp4",
+    "sub_url": "",
+    "date_added": 1783990320698,
+    "is_tagalog_dub": false
   }
 }
