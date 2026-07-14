@@ -308,6 +308,17 @@
     "sub_url": "",
     "date_added": 1783524317627
   },
+  "405774": {
+    "tmdb_id": "405774",
+    "title": "Bird Box",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/doctor-sleep_202604/BirdBox.mp4",
+    "sub_url": "",
+    "date_added": 1783988991880,
+    "is_tagalog_dub": false
+  },
   "425274": {
     "tmdb_id": "425274",
     "title": "Now You See Me: Now You Don't",
