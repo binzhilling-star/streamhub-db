@@ -203,6 +203,17 @@
     "date_added": 1783982602069,
     "is_tagalog_dub": false
   },
+  "171424": {
+    "tmdb_id": "171424",
+    "title": "The Green Inferno",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/20260505_20260505_1702/TheGreenInfernoo.mp4",
+    "sub_url": "",
+    "date_added": 1783993005050,
+    "is_tagalog_dub": false
+  },
   "173897": {
     "tmdb_id": "173897",
     "title": "Resident Evil: The Final Chapter",
