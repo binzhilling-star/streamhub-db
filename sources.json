@@ -7856,10 +7856,10 @@
     "media_type": "tv",
     "season": 1,
     "episode": 1,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/soloblevbiling2.13/soloblevbiling1-1.mp4",
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/solo-levbeling-tagalog-1-2/SoloLevbelingTAGALOG1-1.mp4",
     "sub_url": "",
-    "date_added": 1784032164564,
-    "is_tagalog_dub": false
+    "date_added": 1784123611138,
+    "is_tagalog_dub": true
   },
   "127532_S1E10": {
     "tmdb_id": "127532",
