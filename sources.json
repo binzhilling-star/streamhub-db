@@ -8498,5 +8498,16 @@
     "sub_url": "",
     "date_added": 1784269845466,
     "is_tagalog_dub": false
+  },
+  "247721_S1E3": {
+    "tmdb_id": "247721",
+    "title": "Teacup",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/teacup-1.1/Teacup1.3.mp4",
+    "sub_url": "",
+    "date_added": 1784269854634,
+    "is_tagalog_dub": false
   }
 }
