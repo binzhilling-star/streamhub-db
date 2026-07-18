@@ -9103,5 +9103,16 @@
     "sub_url": "",
     "date_added": 1784383051303,
     "is_tagalog_dub": false
+  },
+  "66732_S3E2": {
+    "tmdb_id": "66732",
+    "title": "Stranger Things",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/strangir-thengs-3.8/StrangirThengs3.2.mp4",
+    "sub_url": "",
+    "date_added": 1784383065273,
+    "is_tagalog_dub": false
   }
 }
