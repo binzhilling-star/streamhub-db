@@ -248,6 +248,17 @@
     "sub_url": "",
     "date_added": 1783648484043
   },
+  "102382": {
+    "tmdb_id": "102382",
+    "title": "The Amazing Spider-Man 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/silo1.5/DaAmazingSpaderman2.mp4",
+    "sub_url": "",
+    "date_added": 1784382268319,
+    "is_tagalog_dub": false
+  },
   "109445": {
     "tmdb_id": "109445",
     "title": "Frozen",
