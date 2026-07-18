@@ -8685,5 +8685,16 @@
     "sub_url": "",
     "date_added": 1784382401123,
     "is_tagalog_dub": false
+  },
+  "125988_S1E8": {
+    "tmdb_id": "125988",
+    "title": "Silo",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/silo1.5/silo1.8.mp4",
+    "sub_url": "",
+    "date_added": 1784382410584,
+    "is_tagalog_dub": false
   }
 }
