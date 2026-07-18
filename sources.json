@@ -3072,6 +3072,17 @@
     "date_added": 1784384027640,
     "is_tagalog_dub": false
   },
+  "1492113": {
+    "tmdb_id": "1492113",
+    "title": "Hipak",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/hipakk_202607/Hipakk.mp4",
+    "sub_url": "",
+    "date_added": 1784384458688,
+    "is_tagalog_dub": false
+  },
   "1493859": {
     "tmdb_id": "1493859",
     "title": "Pizza Movie",
