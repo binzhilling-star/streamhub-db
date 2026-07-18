@@ -9323,5 +9323,16 @@
     "sub_url": "",
     "date_added": 1784383309482,
     "is_tagalog_dub": false
+  },
+  "66732_S5E1": {
+    "tmdb_id": "66732",
+    "title": "Stranger Things",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/st-s-5-e-4-1080-p/STS5E1-1080P.mp4",
+    "sub_url": "",
+    "date_added": 1784383318791,
+    "is_tagalog_dub": false
   }
 }
