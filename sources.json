@@ -97,6 +97,17 @@
     "sub_url": "",
     "date_added": 1783524340512
   },
+  "1930": {
+    "tmdb_id": "1930",
+    "title": "The Amazing Spider-Man",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/silo1.5/DaAmazingSpayder-Man-1.mp4",
+    "sub_url": "",
+    "date_added": 1784382292245,
+    "is_tagalog_dub": false
+  },
   "2062": {
     "tmdb_id": "2062",
     "title": "Ratatouille",
