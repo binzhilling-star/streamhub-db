@@ -9037,5 +9037,16 @@
     "sub_url": "",
     "date_added": 1784382924455,
     "is_tagalog_dub": false
+  },
+  "66732_S2E5": {
+    "tmdb_id": "66732",
+    "title": "Stranger Things",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/strangir-thengs-2.9/StrangirThengs2.5.mp4",
+    "sub_url": "",
+    "date_added": 1784382938759,
+    "is_tagalog_dub": false
   }
 }
