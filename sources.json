@@ -8718,5 +8718,16 @@
     "sub_url": "",
     "date_added": 1784382431913,
     "is_tagalog_dub": false
+  },
+  "125988_S3E3": {
+    "tmdb_id": "125988",
+    "title": "Silo",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/silo1.5_202607/Silo3.3.mp4",
+    "sub_url": "",
+    "date_added": 1784382457392,
+    "is_tagalog_dub": false
   }
 }
