@@ -553,6 +553,17 @@
     "date_added": 1783984117531,
     "is_tagalog_dub": false
   },
+  "315635": {
+    "tmdb_id": "315635",
+    "title": "Spider-Man: Homecoming",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/silo1.5_202607/SpayderHomecoming.mp4",
+    "sub_url": "",
+    "date_added": 1784382481024,
+    "is_tagalog_dub": false
+  },
   "324857": {
     "tmdb_id": "324857",
     "title": "Spider-Man: Into the Spider-Verse",
