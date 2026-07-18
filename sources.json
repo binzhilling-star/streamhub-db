@@ -9213,5 +9213,16 @@
     "sub_url": "",
     "date_added": 1784383181643,
     "is_tagalog_dub": false
+  },
+  "66732_S4E4": {
+    "tmdb_id": "66732",
+    "title": "Stranger Things",
+    "media_type": "tv",
+    "season": 4,
+    "episode": 4,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/strenger-thengs-4.9/StrengerThengs4.4.mp4",
+    "sub_url": "",
+    "date_added": 1784383192778,
+    "is_tagalog_dub": false
   }
 }
