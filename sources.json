@@ -792,6 +792,17 @@
     "sub_url": "",
     "date_added": 1783524317627
   },
+  "378236": {
+    "tmdb_id": "378236",
+    "title": "The Emoji Movie",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/love-untangled/Daemoji%20Movie.mp4",
+    "sub_url": "",
+    "date_added": 1784551432126,
+    "is_tagalog_dub": false
+  },
   "379149": {
     "tmdb_id": "379149",
     "title": "The Foreigner",
