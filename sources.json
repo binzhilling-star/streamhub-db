@@ -2240,6 +2240,17 @@
     "date_added": 1783982959706,
     "is_tagalog_dub": false
   },
+  "1038392": {
+    "tmdb_id": "1038392",
+    "title": "The Conjuring: Last Rites",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-running-man/DaConjuringLast%20Rites.mkv",
+    "sub_url": "",
+    "date_added": 1784551651329,
+    "is_tagalog_dub": false
+  },
   "1052433": {
     "tmdb_id": "1052433",
     "title": "Love Reset",
