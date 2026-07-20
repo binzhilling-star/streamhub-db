@@ -10698,5 +10698,16 @@
     "sub_url": "",
     "date_added": 1784551976289,
     "is_tagalog_dub": false
+  },
+  "114410_S1E1": {
+    "tmdb_id": "114410",
+    "title": "Chainsaw Man",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/aquamann-1/cChainsawMann1.1.mp4",
+    "sub_url": "",
+    "date_added": 1784552040283,
+    "is_tagalog_dub": false
   }
 }
