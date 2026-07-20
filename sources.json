@@ -620,6 +620,17 @@
     "date_added": 1783989940286,
     "is_tagalog_dub": false
   },
+  "297802": {
+    "tmdb_id": "297802",
+    "title": "Aquaman",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/aquamann-1/Aquamann1.mp4",
+    "sub_url": "",
+    "date_added": 1784551991012,
+    "is_tagalog_dub": false
+  },
   "298250": {
     "tmdb_id": "298250",
     "title": "Jigsaw",
