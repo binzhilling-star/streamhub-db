@@ -271,6 +271,17 @@
     "date_added": 1783989968084,
     "is_tagalog_dub": false
   },
+  "76492": {
+    "tmdb_id": "76492",
+    "title": "Hotel Transylvania",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-running-man/HotelTtransylvania1.mp4",
+    "sub_url": "",
+    "date_added": 1784551800152,
+    "is_tagalog_dub": false
+  },
   "82690": {
     "tmdb_id": "82690",
     "title": "Wreck-It Ralph",
