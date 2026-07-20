@@ -271,6 +271,17 @@
     "date_added": 1783989968084,
     "is_tagalog_dub": false
   },
+  "72190": {
+    "tmdb_id": "72190",
+    "title": "World War Z",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/aquamann-1/WorldWarZ_1.mkv",
+    "sub_url": "",
+    "date_added": 1784552021625,
+    "is_tagalog_dub": false
+  },
   "76492": {
     "tmdb_id": "76492",
     "title": "Hotel Transylvania",
