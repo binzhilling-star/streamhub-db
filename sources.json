@@ -924,6 +924,17 @@
     "date_added": 1784551379046,
     "is_tagalog_dub": false
   },
+  "399055": {
+    "tmdb_id": "399055",
+    "title": "The Shape of Water",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/aquamann-1/Da%20Shape%20ofWater.mp4",
+    "sub_url": "",
+    "date_added": 1784552005806,
+    "is_tagalog_dub": false
+  },
   "399579": {
     "tmdb_id": "399579",
     "title": "Alita: Battle Angel",
