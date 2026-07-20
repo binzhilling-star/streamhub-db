@@ -357,6 +357,17 @@
     "date_added": 1783950537908,
     "is_tagalog_dub": false
   },
+  "138843": {
+    "tmdb_id": "138843",
+    "title": "The Conjuring",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-running-man/DaConjuring1.mkv",
+    "sub_url": "",
+    "date_added": 1784551643373,
+    "is_tagalog_dub": false
+  },
   "156022": {
     "tmdb_id": "156022",
     "title": "The Equalizer",
