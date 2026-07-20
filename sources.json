@@ -9950,5 +9950,16 @@
     "sub_url": "",
     "date_added": 1784550817594,
     "is_tagalog_dub": false
+  },
+  "42573_S1E30_TAGALOG": {
+    "tmdb_id": "42573",
+    "title": "Slam Dunk",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 30,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/slam-dunk-tagalog-1-23.h-264_202607/Slam_Dunk_Tagalog-1-30.h264.mp4",
+    "sub_url": "",
+    "date_added": 1784550831615,
+    "is_tagalog_dub": true
   }
 }
