@@ -11765,5 +11765,16 @@
     "sub_url": "",
     "date_added": 1784726897201,
     "is_tagalog_dub": false
+  },
+  "65733_S1E10_TAGALOG": {
+    "tmdb_id": "65733",
+    "title": "Doraemon",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/skycraper1/Doraemon1..10.mp4",
+    "sub_url": "",
+    "date_added": 1784726964894,
+    "is_tagalog_dub": true
   }
 }
