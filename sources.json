@@ -1329,6 +1329,17 @@
     "date_added": 1783989023804,
     "is_tagalog_dub": false
   },
+  "502425": {
+    "tmdb_id": "502425",
+    "title": "Escape from Pretoria",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/escape-prom-pretoria/EscapeProm%20Pretoria.mp4",
+    "sub_url": "",
+    "date_added": 1784727440932,
+    "is_tagalog_dub": false
+  },
   "503736": {
     "tmdb_id": "503736",
     "title": "Army of the Dead",
