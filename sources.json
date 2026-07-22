@@ -1264,6 +1264,17 @@
     "date_added": 1783992326751,
     "is_tagalog_dub": false
   },
+  "447200": {
+    "tmdb_id": "447200",
+    "title": "Skyscraper",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/skycraper1_202607/skycraper1.mp4",
+    "sub_url": "",
+    "date_added": 1784728113969,
+    "is_tagalog_dub": false
+  },
   "447332": {
     "tmdb_id": "447332",
     "title": "A Quiet Place",
