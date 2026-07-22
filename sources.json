@@ -1761,6 +1761,17 @@
     "date_added": 1783993099296,
     "is_tagalog_dub": false
   },
+  "639721": {
+    "tmdb_id": "639721",
+    "title": "The Addams Family 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-end-of-the-fword.-1.1/DaAdamsFamily2.mp4",
+    "sub_url": "",
+    "date_added": 1784725844931,
+    "is_tagalog_dub": false
+  },
   "640146": {
     "tmdb_id": "640146",
     "title": "Ant-Man and the Wasp: Quantumania",
