@@ -11886,5 +11886,16 @@
     "sub_url": "",
     "date_added": 1784727105893,
     "is_tagalog_dub": false
+  },
+  "65733_S1E21": {
+    "tmdb_id": "65733",
+    "title": "Doraemon",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 21,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/doraemon-1.1/Doraemon1..21.mp4",
+    "sub_url": "",
+    "date_added": 1784727118078,
+    "is_tagalog_dub": false
   }
 }
