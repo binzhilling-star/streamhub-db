@@ -11237,5 +11237,16 @@
     "sub_url": "",
     "date_added": 1784726256336,
     "is_tagalog_dub": false
+  },
+  "120089_S1E22": {
+    "tmdb_id": "120089",
+    "title": "SPY x FAMILY",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 22,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-end-of-the-fword.-1.1/SPYyxFAMILYa1.22.mp4",
+    "sub_url": "",
+    "date_added": 1784726269499,
+    "is_tagalog_dub": false
   }
 }
