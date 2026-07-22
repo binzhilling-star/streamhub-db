@@ -631,6 +631,17 @@
     "date_added": 1784551905035,
     "is_tagalog_dub": false
   },
+  "265712": {
+    "tmdb_id": "265712",
+    "title": "Stand by Me Doraemon",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/skycraper1_202607/StandbyMe1.mp4",
+    "sub_url": "",
+    "date_added": 1784727920020,
+    "is_tagalog_dub": false
+  },
   "269149": {
     "tmdb_id": "269149",
     "title": "Zootopia",
