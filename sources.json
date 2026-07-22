@@ -12260,5 +12260,16 @@
     "sub_url": "",
     "date_added": 1784727637573,
     "is_tagalog_dub": false
+  },
+  "289763_S1E2": {
+    "tmdb_id": "289763",
+    "title": "See You at Work Tomorrow!",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/escape-prom-pretoria/seeUAtWork1.2.mp4",
+    "sub_url": "",
+    "date_added": 1784727646757,
+    "is_tagalog_dub": false
   }
 }
