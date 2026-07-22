@@ -11028,5 +11028,16 @@
     "sub_url": "",
     "date_added": 1784726030918,
     "is_tagalog_dub": false
+  },
+  "74577_S2E7": {
+    "tmdb_id": "74577",
+    "title": "The End of the F***ing World",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 7,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-end-of-the-fword.-1.1/DaEndOfTheFWord.2.7.mp4",
+    "sub_url": "",
+    "date_added": 1784726039963,
+    "is_tagalog_dub": false
   }
 }
