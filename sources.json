@@ -11369,5 +11369,16 @@
     "sub_url": "",
     "date_added": 1784726373691,
     "is_tagalog_dub": false
+  },
+  "120089_S2E10": {
+    "tmdb_id": "120089",
+    "title": "SPY x FAMILY",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-end-of-the-fword.-1.1/SPYyxFAMILYa2.10.mp4",
+    "sub_url": "",
+    "date_added": 1784726382955,
+    "is_tagalog_dub": false
   }
 }
