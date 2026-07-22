@@ -10819,5 +10819,16 @@
     "sub_url": "",
     "date_added": 1784553849229,
     "is_tagalog_dub": true
+  },
+  "105009_S1E1": {
+    "tmdb_id": "105009",
+    "title": "Tokyo Revengers",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://www1.worldsrc.com/download/dl?l=1eb1614eb5b5cc4571fca7e4dd30f2b7",
+    "sub_url": "",
+    "date_added": 1784724752831,
+    "is_tagalog_dub": false
   }
 }
