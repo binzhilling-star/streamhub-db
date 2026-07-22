@@ -11666,5 +11666,16 @@
     "sub_url": "",
     "date_added": 1784726769752,
     "is_tagalog_dub": false
+  },
+  "85552_S2E1": {
+    "tmdb_id": "85552",
+    "title": "Euphoria",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/un-ex-youu/Uporya2.1.mp4",
+    "sub_url": "",
+    "date_added": 1784726805167,
+    "is_tagalog_dub": false
   }
 }
