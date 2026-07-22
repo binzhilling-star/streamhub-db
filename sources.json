@@ -1089,6 +1089,17 @@
     "date_added": 1783989190207,
     "is_tagalog_dub": false
   },
+  "419478": {
+    "tmdb_id": "419478",
+    "title": "Midnight Sun",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/escape-prom-pretoria/midnightson.mp4",
+    "sub_url": "",
+    "date_added": 1784727602253,
+    "is_tagalog_dub": false
+  },
   "420817": {
     "tmdb_id": "420817",
     "title": "Aladdin",
