@@ -12381,5 +12381,16 @@
     "sub_url": "",
     "date_added": 1784727768838,
     "is_tagalog_dub": false
+  },
+  "65733_S1E39": {
+    "tmdb_id": "65733",
+    "title": "Doraemon",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 39,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/wrongtorn-3/yDoraemon1..39.mp4",
+    "sub_url": "",
+    "date_added": 1784727838497,
+    "is_tagalog_dub": false
   }
 }
