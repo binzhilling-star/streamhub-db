@@ -708,6 +708,17 @@
     "date_added": 1783992368601,
     "is_tagalog_dub": false
   },
+  "283445": {
+    "tmdb_id": "283445",
+    "title": "Sinister 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/skycraper1_202607/sinistir2.mp4",
+    "sub_url": "",
+    "date_added": 1784728052984,
+    "is_tagalog_dub": false
+  },
   "286217": {
     "tmdb_id": "286217",
     "title": "The Martian",
