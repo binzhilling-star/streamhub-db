@@ -11534,5 +11534,16 @@
     "sub_url": "",
     "date_added": 1784726549937,
     "is_tagalog_dub": false
+  },
+  "120089_S3E10": {
+    "tmdb_id": "120089",
+    "title": "SPY x FAMILY",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 10,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/da-end-of-the-fword.-1.1/sPyXPamily3.10.mp4",
+    "sub_url": "",
+    "date_added": 1784726618641,
+    "is_tagalog_dub": false
   }
 }
