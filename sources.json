@@ -12480,5 +12480,16 @@
     "sub_url": "",
     "date_added": 1785005709667,
     "is_tagalog_dub": false
+  },
+  "136283_S1E2": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://ss.streamflixserver.site/file/streamflix-ss-1/tv%2Fglory%2Fs1%2FThe.Glory.S01E02.720p.WEB-DL.HIN-ENG.KOR.x264.ESub-KatmovieHD.tf.mkv",
+    "sub_url": "",
+    "date_added": 1785005777020,
+    "is_tagalog_dub": false
   }
 }
