@@ -3558,6 +3558,17 @@
     "date_added": 1784383931268,
     "is_tagalog_dub": false
   },
+  "1339713": {
+    "tmdb_id": "1339713",
+    "title": "Obsession",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://vod-normal-global-cdn-z02.sooplive.com/spkt/save/afreeca/station/2026/0630/20/1782819243327168.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785079716208,
+    "is_tagalog_dub": false
+  },
   "1340206": {
     "tmdb_id": "1340206",
     "title": "Tuner",
