@@ -747,9 +747,9 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hls.cdnvideo11.shop/hls07/The-Handmaiden/Ep1_index.m3u8",
+    "url": "https://hls.cdnvideo11.shop/hls07/The-Handmaiden/Ep1_index.m3u8",
     "sub_url": "",
-    "date_added": 1785082498051,
+    "date_added": 1785082820420,
     "is_tagalog_dub": false
   },
   "294254": {
