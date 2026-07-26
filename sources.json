@@ -12590,5 +12590,16 @@
     "sub_url": "",
     "date_added": 1785073900047,
     "is_tagalog_dub": false
+  },
+  "299365_S1E8": {
+    "tmdb_id": "299365",
+    "title": "Reborn Rookie",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hugh.cdn.rumble.cloud/video/fww1/c7/s8/2/c/e/2/A/ce2AA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785073948002,
+    "is_tagalog_dub": false
   }
 }
