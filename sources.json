@@ -12645,5 +12645,16 @@
     "sub_url": "",
     "date_added": 1785074120775,
     "is_tagalog_dub": false
+  },
+  "281009_S1E1": {
+    "tmdb_id": "281009",
+    "title": "The Jewel of Section E",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hugh.cdn.rumble.cloud/video/fwe1/ec/s8/2/4/B/A/P/4BAPw.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785074251942,
+    "is_tagalog_dub": false
   }
 }
