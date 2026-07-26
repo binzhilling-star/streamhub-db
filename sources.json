@@ -12535,5 +12535,16 @@
     "sub_url": "",
     "date_added": 1785072656823,
     "is_tagalog_dub": false
+  },
+  "299365_S1E3": {
+    "tmdb_id": "299365",
+    "title": "Reborn Rookie",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hugh.cdn.rumble.cloud/video/fwe2/f3/s8/2/w/8/a/w/w8awA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785073682707,
+    "is_tagalog_dub": false
   }
 }
