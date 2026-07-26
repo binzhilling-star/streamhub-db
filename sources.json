@@ -2905,9 +2905,9 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://vod-normal-global-cdn-z02.sooplive.com/spkt/save/afreeca/station/2026/0408/20/1775646448583099.mp4/manifest.m3u8",
+    "url": "https://vod-normal-global-cdn-z02.sooplive.com/spkt/save/afreeca/station/2026/0408/20/1775646448583099.mp4/manifest.m3u8",
     "sub_url": "",
-    "date_added": 1785078914957,
+    "date_added": 1785083706281,
     "is_tagalog_dub": false
   },
   "1110034": {
