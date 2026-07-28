@@ -1741,6 +1741,17 @@
     "date_added": 1783992692400,
     "is_tagalog_dub": false
   },
+  "541671": {
+    "tmdb_id": "541671",
+    "title": "Ballerina",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0827/02/1756227894372744.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785222480109,
+    "is_tagalog_dub": false
+  },
   "545609": {
     "tmdb_id": "545609",
     "title": "Extraction",
