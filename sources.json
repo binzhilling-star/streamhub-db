@@ -2900,6 +2900,17 @@
     "date_added": 1783982959706,
     "is_tagalog_dub": false
   },
+  "1035259": {
+    "tmdb_id": "1035259",
+    "title": "The Naked Gun",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/09/1756859264381210.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785236934359,
+    "is_tagalog_dub": false
+  },
   "1038392": {
     "tmdb_id": "1038392",
     "title": "The Conjuring: Last Rites",
