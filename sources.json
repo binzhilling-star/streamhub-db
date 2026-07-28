@@ -15791,5 +15791,82 @@
     "sub_url": "",
     "date_added": 1785273631186,
     "is_tagalog_dub": false
+  },
+  "127529_S2E1": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 1,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/51/s8/2/O/v/p/c/OvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E2": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 2,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/bb/s8/2/S/v/p/c/SvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E3": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 3,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/3e/s8/2/Y/v/p/c/YvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E4": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 4,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/2/v/p/c/2vpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E5": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/cf/s8/2/4/v/p/c/4vpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E6": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/8/v/p/c/8vpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
+  },
+  "127529_S2E7": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 7,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/d3/s8/2/g/w/p/c/gwpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785273961072,
+    "is_tagalog_dub": false
   }
 }
