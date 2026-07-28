@@ -15549,5 +15549,71 @@
     "sub_url": "",
     "date_added": 1785246025453,
     "is_tagalog_dub": false
+  },
+  "319600_S1E1": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/73/s8/2/U/H/5/m/UH5mA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
+  },
+  "319600_S1E2": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/7e/s8/2/u/A/f/n/uAfnA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
+  },
+  "319600_S1E3": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/65/s8/2/-/1/4/o/-14oA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
+  },
+  "319600_S1E4": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/k/u/n/p/kunpA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
+  },
+  "319600_S1E5": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/Q/T/b/r/QTbrA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
+  },
+  "319600_S1E6": {
+    "tmdb_id": "319600",
+    "title": "Azure Spring",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8f/s8/2/s/1/u/r/s1urA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247453836,
+    "is_tagalog_dub": false
   }
 }
