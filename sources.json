@@ -13129,5 +13129,16 @@
     "sub_url": "",
     "date_added": 1785207686274,
     "is_tagalog_dub": false
+  },
+  "136283_S2E5": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep5_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785207716953,
+    "is_tagalog_dub": false
   }
 }
