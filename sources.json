@@ -2615,6 +2615,17 @@
     "date_added": 1783993474380,
     "is_tagalog_dub": true
   },
+  "967941": {
+    "tmdb_id": "967941",
+    "title": "Wicked: For Good",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1231/19/1767177040251517.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785220875416,
+    "is_tagalog_dub": false
+  },
   "980431": {
     "tmdb_id": "980431",
     "title": "Avatar Aang: The Last Airbender",
