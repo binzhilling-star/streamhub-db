@@ -3262,6 +3262,17 @@
     "sub_url": "",
     "date_added": 1783648715509
   },
+  "1081003": {
+    "tmdb_id": "1081003",
+    "title": "Supergirl",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Supergirl-2026-Ep1/index.m3u8?v=cb8618f5-9ee8-4d74-bb49-6320b7b7c4fc",
+    "sub_url": "",
+    "date_added": 1785282839956,
+    "is_tagalog_dub": false
+  },
   "1083381": {
     "tmdb_id": "1083381",
     "title": "Backrooms",
