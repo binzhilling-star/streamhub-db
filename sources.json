@@ -13349,5 +13349,71 @@
     "sub_url": "",
     "date_added": 1785223787853,
     "is_tagalog_dub": false
+  },
+  "119051_S1E3": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0109/01/1767890438798348.mp4/manifest.m3u8?cv=v1&rp=o00",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
+  },
+  "119051_S1E4": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0109/01/1767890438788927.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
+  },
+  "119051_S1E5": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441535631.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
+  },
+  "119051_S1E6": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441546075.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
+  },
+  "119051_S1E7": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441539627.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
+  },
+  "119051_S1E8": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441538929.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223896000,
+    "is_tagalog_dub": false
   }
 }
