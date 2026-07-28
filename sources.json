@@ -2222,6 +2222,17 @@
     "date_added": 1784551396737,
     "is_tagalog_dub": false
   },
+  "752623": {
+    "tmdb_id": "752623",
+    "title": "The Lost City",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls02.cdnvideo11.shop/hls02/The-Lost-City/ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785209220037,
+    "is_tagalog_dub": false
+  },
   "756999": {
     "tmdb_id": "756999",
     "title": "The Black Phone",
