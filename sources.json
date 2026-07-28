@@ -3542,6 +3542,17 @@
     "date_added": 1785085465592,
     "is_tagalog_dub": false
   },
+  "1252037": {
+    "tmdb_id": "1252037",
+    "title": "The Tank",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0103/19/1767436544688970.mp4/manifest.m3u8?rp=o00",
+    "sub_url": "",
+    "date_added": 1785236547833,
+    "is_tagalog_dub": false
+  },
   "1254786": {
     "tmdb_id": "1254786",
     "title": "The Life List",
