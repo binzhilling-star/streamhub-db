@@ -12997,5 +12997,16 @@
     "sub_url": "",
     "date_added": 1785207259986,
     "is_tagalog_dub": false
+  },
+  "136283_S1E1": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls.cdnvideo11.shop/hls07/6514/Ep1_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785207391134,
+    "is_tagalog_dub": false
   }
 }
