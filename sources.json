@@ -18475,5 +18475,93 @@
     "sub_url": "",
     "date_added": 1785282789894,
     "is_tagalog_dub": false
+  },
+  "136283_S1E9": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 9,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep1_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E10": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep2_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E11": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 11,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep3_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E12": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 12,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep4_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E13": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 13,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep5_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E14": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 14,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep6_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E15": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 15,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep7_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
+  },
+  "136283_S1E16": {
+    "tmdb_id": "136283",
+    "title": "The Glory",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 16,
+    "url": "https://hls.cdnvideo11.shop/hls07/7002/Ep8_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785283194428,
+    "is_tagalog_dub": false
   }
 }
