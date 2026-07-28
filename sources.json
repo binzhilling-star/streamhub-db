@@ -2692,6 +2692,17 @@
     "date_added": 1783993474380,
     "is_tagalog_dub": true
   },
+  "967847": {
+    "tmdb_id": "967847",
+    "title": "Ghostbusters: Frozen Empire",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.com/spkt/save/afreeca/station/2026/0401/01/1774973107831062.mp4/manifest.m3u8?rp=o00",
+    "sub_url": "",
+    "date_added": 1785236590681,
+    "is_tagalog_dub": false
+  },
   "967941": {
     "tmdb_id": "967941",
     "title": "Wicked: For Good",
