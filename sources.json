@@ -13492,5 +13492,38 @@
     "sub_url": "",
     "date_added": 1785224422267,
     "is_tagalog_dub": false
+  },
+  "119051_S2E6": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441546075.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785224463187,
+    "is_tagalog_dub": false
+  },
+  "119051_S2E7": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 7,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441539627.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785224463187,
+    "is_tagalog_dub": false
+  },
+  "119051_S2E8": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 8,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0903/17/1756889441538929.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785224463187,
+    "is_tagalog_dub": false
   }
 }
