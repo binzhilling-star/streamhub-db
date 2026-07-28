@@ -16396,5 +16396,137 @@
     "sub_url": "",
     "date_added": 1785274983634,
     "is_tagalog_dub": false
+  },
+  "258025_S1E1": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls.cdnvideo11.shop/hls07/10824/Ep1.v992_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E2": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls.cdnvideo11.shop/hls07/10824/Ep2.v290_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E3": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls.cdnvideo11.shop/hls07/10824/Ep3.v890_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E4": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls.cdnvideo11.shop/hls07/10824/Ep4.v892_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E5": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep5.v723_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E6": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep6.v162_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E7": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep7.v672_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E8": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep8.v261_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E9": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 9,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep9.v910_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E10": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep10.v792_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E11": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 11,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep11.v271_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
+  },
+  "258025_S1E12": {
+    "tmdb_id": "258025",
+    "title": "Head Over Heels",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 12,
+    "url": "https://hls.cdnvideo11.shop/hls07/10737/Ep12.v891_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785275176473,
+    "is_tagalog_dub": false
   }
 }
