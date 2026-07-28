@@ -18079,5 +18079,115 @@
     "sub_url": "",
     "date_added": 1785281973257,
     "is_tagalog_dub": false
+  },
+  "60863_S3E1": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 1,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.1.1703914576.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E2": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 2,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.2.1713906510.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E3": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 3,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.3.1709243942.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E4": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 4,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.4.1703887001.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E5": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 5,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.5.1709244421.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E6": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 6,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.6.1709245096.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E7": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 7,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.7.1726856040.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E8": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 8,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.8.1726856840.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E9": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 9,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.9.1726855948.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
+  },
+  "60863_S3E10": {
+    "tmdb_id": "60863",
+    "title": "Haikyu!!",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 10,
+    "url": "https://hls10.cdnvideo11.shop/hls10/2b16ae5b624b062a0997df55057915ba/ep.10.1726856028.m3u8",
+    "sub_url": "",
+    "date_added": 1785282177181,
+    "is_tagalog_dub": false
   }
 }
