@@ -13338,5 +13338,16 @@
     "sub_url": "",
     "date_added": 1785222535826,
     "is_tagalog_dub": false
+  },
+  "119051_S1E2": {
+    "tmdb_id": "119051",
+    "title": "Wednesday",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0109/01/1767890438799933.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785223787853,
+    "is_tagalog_dub": false
   }
 }
