@@ -15615,5 +15615,93 @@
     "sub_url": "",
     "date_added": 1785247453836,
     "is_tagalog_dub": false
+  },
+  "127529_S1E1": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/a9/s8/2/m/v/p/c/mvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E2": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/2/q/v/p/c/qvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E3": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/9a/s8/2/s/v/p/c/svpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E4": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/3c/s8/2/y/v/p/c/yvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E5": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/9d/s8/2/A/v/p/c/AvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E6": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/73/s8/2/E/v/p/c/EvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E7": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hugh.cdn.rumble.cloud/video/fww1/ee/s8/2/I/v/p/c/IvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
+  },
+  "127529_S1E8": {
+    "tmdb_id": "127529",
+    "title": "Bloodhounds",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://hugh.cdn.rumble.cloud/video/fwe2/d4/s8/2/M/v/p/c/MvpcA.aaa.mp4",
+    "sub_url": "",
+    "date_added": 1785247858377,
+    "is_tagalog_dub": false
   }
 }
