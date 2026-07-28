@@ -12942,5 +12942,16 @@
     "sub_url": "",
     "date_added": 1785207152847,
     "is_tagalog_dub": false
+  },
+  "113988_S1E6": {
+    "tmdb_id": "113988",
+    "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hls03.cdnvideo11.shop/DAHMER---Monster--The-Jeffrey-Dahmer-StoryEp6.m3u8",
+    "sub_url": "",
+    "date_added": 1785207180939,
+    "is_tagalog_dub": false
   }
 }
