@@ -12887,5 +12887,16 @@
     "sub_url": "",
     "date_added": 1785074251942,
     "is_tagalog_dub": false
+  },
+  "113988_S1E1": {
+    "tmdb_id": "113988",
+    "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls03.cdnvideo11.shop/DAHMER---Monster--The-Jeffrey-Dahmer-StoryEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785207038192,
+    "is_tagalog_dub": false
   }
 }
