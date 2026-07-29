@@ -4233,6 +4233,17 @@
     "sub_url": "",
     "date_added": 1783648137916
   },
+  "1267905": {
+    "tmdb_id": "1267905",
+    "title": "The Roses",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1023/04/1761161514303570.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785316582192,
+    "is_tagalog_dub": false
+  },
   "1268127": {
     "tmdb_id": "1268127",
     "title": "Humint",
