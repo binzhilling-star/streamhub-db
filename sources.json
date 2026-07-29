@@ -23117,5 +23117,71 @@
     "sub_url": "",
     "date_added": 1785329468232,
     "is_tagalog_dub": false
+  },
+  "94997_S3E1": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 1,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13090/Ep1.v122_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785343281661,
+    "is_tagalog_dub": false
+  },
+  "94997_S3E2": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 2,
+    "url": "https://tmp.cdnvideo11.shop/tmp/House-of-the-Dragon---Season-3-Ep2/index.m3u8?v=d0cb53ce-cb10-4dd0-a93b-214acdeeff8e",
+    "sub_url": "",
+    "date_added": 1785343281662,
+    "is_tagalog_dub": false
+  },
+  "94997_S3E3": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 3,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13090/Ep3.v4410_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785343281662,
+    "is_tagalog_dub": false
+  },
+  "94997_S3E4": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 4,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13090/Ep4.v368_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785343281662,
+    "is_tagalog_dub": false
+  },
+  "94997_S3E5": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 5,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13090/Ep5.v531_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785343281662,
+    "is_tagalog_dub": false
+  },
+  "94997_S3E6": {
+    "tmdb_id": "94997",
+    "title": "House of the Dragon",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 6,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13090/Ep6.v128_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785343281662,
+    "is_tagalog_dub": false
   }
 }
