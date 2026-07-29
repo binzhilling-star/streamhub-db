@@ -24173,5 +24173,71 @@
     "sub_url": "",
     "date_added": 1785344573059,
     "is_tagalog_dub": false
+  },
+  "93405_S3E1": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 1,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep1.v209_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
+  },
+  "93405_S3E2": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 2,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep2.v200_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
+  },
+  "93405_S3E3": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 3,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep3.v092_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
+  },
+  "93405_S3E4": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 4,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep4.v002_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
+  },
+  "93405_S3E5": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 5,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep5.v112_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
+  },
+  "93405_S3E6": {
+    "tmdb_id": "93405",
+    "title": "Squid Game",
+    "media_type": "tv",
+    "season": 3,
+    "episode": 6,
+    "url": "https://hls.cdnvideo11.shop/hls07/10124/Ep6.v882_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785344679598,
+    "is_tagalog_dub": false
   }
 }
