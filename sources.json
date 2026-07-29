@@ -4365,6 +4365,17 @@
     "sub_url": "",
     "date_added": 1783648137916
   },
+  "1267319": {
+    "tmdb_id": "1267319",
+    "title": "Mantis",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0927/17/1758960337379253.mp4/manifest.m3u8?cv=v1&rp=o00",
+    "sub_url": "",
+    "date_added": 1785317615922,
+    "is_tagalog_dub": false
+  },
   "1267905": {
     "tmdb_id": "1267905",
     "title": "The Roses",
