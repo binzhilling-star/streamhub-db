@@ -1864,6 +1864,17 @@
     "sub_url": "",
     "date_added": 1783524255570
   },
+  "519182": {
+    "tmdb_id": "519182",
+    "title": "Despicable Me 4",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls01.cdnvideo11.shop/hls01/Despicable-Me-4/Ep1_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785309674757,
+    "is_tagalog_dub": false
+  },
   "522162": {
     "tmdb_id": "522162",
     "title": "Midway",
