@@ -272,6 +272,17 @@
     "date_added": 1785280870283,
     "is_tagalog_dub": false
   },
+  "20352": {
+    "tmdb_id": "20352",
+    "title": "Despicable Me",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Despicable-MeEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785309713757,
+    "is_tagalog_dub": false
+  },
   "20453": {
     "tmdb_id": "20453",
     "title": "3 Idiots",
