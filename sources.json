@@ -23062,5 +23062,49 @@
     "sub_url": "",
     "date_added": 1785329175711,
     "is_tagalog_dub": false
+  },
+  "76479_S5E5": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 5,
+    "url": "https://tmp.cdnvideo11.shop/tmp/The-Boys---Season-5-Ep5/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785329364619,
+    "is_tagalog_dub": false
+  },
+  "76479_S5E6": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 6,
+    "url": "https://tmp.cdnvideo11.shop/tmp/The-Boys---Season-5-Ep6/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785329364619,
+    "is_tagalog_dub": false
+  },
+  "76479_S5E7": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 7,
+    "url": "https://tmp.cdnvideo11.shop/tmp/The-Boys---Season-5-Ep7/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785329364619,
+    "is_tagalog_dub": false
+  },
+  "76479_S5E8": {
+    "tmdb_id": "76479",
+    "title": "The Boys",
+    "media_type": "tv",
+    "season": 5,
+    "episode": 8,
+    "url": "https://tmp.cdnvideo11.shop/tmp/The-Boys---Season-5-Ep8/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785329364619,
+    "is_tagalog_dub": false
   }
 }
