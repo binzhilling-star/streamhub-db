@@ -4820,6 +4820,17 @@
     "sub_url": "",
     "date_added": 1783648677613
   },
+  "1505183": {
+    "tmdb_id": "1505183",
+    "title": "Village of the Dead",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.com/spkt/save/afreeca/station/2026/0515/00/1778772979219830.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785306291211,
+    "is_tagalog_dub": false
+  },
   "1506456": {
     "tmdb_id": "1506456",
     "title": "Maalikaya",
