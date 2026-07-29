@@ -228,6 +228,17 @@
     "date_added": 1783989880035,
     "is_tagalog_dub": false
   },
+  "12477": {
+    "tmdb_id": "12477",
+    "title": "Grave of the Fireflies",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls10.cdnvideo11.shop/hls10/613a0c055dedec7483574ea8af2ac5d0/ep.1.1709270748.m3u8",
+    "sub_url": "",
+    "date_added": 1785349029772,
+    "is_tagalog_dub": false
+  },
   "13186": {
     "tmdb_id": "13186",
     "title": "Wrong Turn 2: Dead End",
