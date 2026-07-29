@@ -18728,5 +18728,16 @@
     "sub_url": "",
     "date_added": 1785284521334,
     "is_tagalog_dub": false
+  },
+  "112888_S1E16": {
+    "tmdb_id": "112888",
+    "title": "True Beauty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 16,
+    "url": "https://hls03.videocdndelivery05.site/975/True-Beauty.Ep16.mp4",
+    "sub_url": "",
+    "date_added": 1785284544597,
+    "is_tagalog_dub": false
   }
 }
