@@ -19564,5 +19564,159 @@
     "sub_url": "",
     "date_added": 1785307576724,
     "is_tagalog_dub": false
+  },
+  "228156_S1E1": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.1.v0.1723186475.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E2": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.2.v4.1723182513.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E3": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.3.v0.1723185325.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E4": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.4.v15.1723178438.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E5": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.5.v1.1723178093.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E6": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.6.v5.1723175997.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E7": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.7.v6.1723174762.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S1E8": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://hls09.cdnvideo11.shop/hls09/7b3200dfc1ca87e74e70782ec5e1f125/ep.8.v10.1723842356.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E1": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 1,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.1.v2.1706082861.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E2": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 2,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.2.v0.1709153996.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E3": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 3,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.3.v0.1707176107.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E4": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 4,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.4.v2.1707756965.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E5": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.5.v1.1708330232.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
+  },
+  "228156_S2E6": {
+    "tmdb_id": "228156",
+    "title": "Ao Haru Ride",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://hls09.cdnvideo11.shop/hls09/9422208da6100695c606808180c40440/ep.6.v0.1708915406.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785307703067,
+    "is_tagalog_dub": false
   }
 }
