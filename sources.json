@@ -23931,5 +23931,71 @@
     "sub_url": "",
     "date_added": 1785344122394,
     "is_tagalog_dub": false
+  },
+  "1399_S8E1": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 1,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
+  },
+  "1399_S8E2": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 2,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep2.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
+  },
+  "1399_S8E3": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 3,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep3.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
+  },
+  "1399_S8E4": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 4,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep4.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
+  },
+  "1399_S8E5": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 5,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep5.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
+  },
+  "1399_S8E6": {
+    "tmdb_id": "1399",
+    "title": "Game of Thrones",
+    "media_type": "tv",
+    "season": 8,
+    "episode": 6,
+    "url": "https://hls03.cdnvideo11.shop/Game-Of-Thrones---Season-8Ep6.m3u8",
+    "sub_url": "",
+    "date_added": 1785344186825,
+    "is_tagalog_dub": false
   }
 }
