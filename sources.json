@@ -22248,5 +22248,49 @@
     "sub_url": "",
     "date_added": 1785326320503,
     "is_tagalog_dub": false
+  },
+  "313298_S1E1": {
+    "tmdb_id": "313298",
+    "title": "The Dinosaurs",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls03.streamsub.top/The-Dinosaurs-2026.Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785326467295,
+    "is_tagalog_dub": false
+  },
+  "313298_S1E2": {
+    "tmdb_id": "313298",
+    "title": "The Dinosaurs",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls03.streamsub.top/The-Dinosaurs-2026.Ep2.m3u8",
+    "sub_url": "",
+    "date_added": 1785326467295,
+    "is_tagalog_dub": false
+  },
+  "313298_S1E3": {
+    "tmdb_id": "313298",
+    "title": "The Dinosaurs",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls03.streamsub.top/The-Dinosaurs-2026.Ep3.m3u8",
+    "sub_url": "",
+    "date_added": 1785326467295,
+    "is_tagalog_dub": false
+  },
+  "313298_S1E4": {
+    "tmdb_id": "313298",
+    "title": "The Dinosaurs",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls03.streamsub.top/The-Dinosaurs-2026.Ep4.m3u8",
+    "sub_url": "",
+    "date_added": 1785326467295,
+    "is_tagalog_dub": false
   }
 }
