@@ -1888,6 +1888,17 @@
     "sub_url": "",
     "date_added": 1783524497345
   },
+  "508642": {
+    "tmdb_id": "508642",
+    "title": "Gonjiam: Haunted Asylum",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls09.cdnvideo11.shop/hls09/853ec10fac3de8ab6cd9a911f3cbdfb0/ep.1.v1.1728408005.720.m3u8",
+    "sub_url": "",
+    "date_added": 1785348858047,
+    "is_tagalog_dub": false
+  },
   "508943": {
     "tmdb_id": "508943",
     "title": "Luca",
