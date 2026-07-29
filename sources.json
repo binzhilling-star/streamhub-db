@@ -534,6 +534,17 @@
     "date_added": 1784551891473,
     "is_tagalog_dub": false
   },
+  "93456": {
+    "tmdb_id": "93456",
+    "title": "Despicable Me 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Despicable-Me-2Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785309763953,
+    "is_tagalog_dub": false
+  },
   "99861": {
     "tmdb_id": "99861",
     "title": "Avengers: Age of Ultron",
