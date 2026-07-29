@@ -19278,5 +19278,93 @@
     "sub_url": "",
     "date_added": 1785307253429,
     "is_tagalog_dub": false
+  },
+  "110316_S2E1": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 1,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep1_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E2": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 2,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep2_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E3": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 3,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep3_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E4": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 4,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep4_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E5": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 5,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep5_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E6": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 6,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep6_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E7": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 7,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep7_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
+  },
+  "110316_S2E8": {
+    "tmdb_id": "110316",
+    "title": "Alice in Borderland",
+    "media_type": "tv",
+    "season": 2,
+    "episode": 8,
+    "url": "https://hls.cdnvideo11.shop/hls07/6662/Ep8_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785307342688,
+    "is_tagalog_dub": false
   }
 }
