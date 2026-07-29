@@ -1386,6 +1386,17 @@
     "date_added": 1784551781726,
     "is_tagalog_dub": false
   },
+  "402431": {
+    "tmdb_id": "402431",
+    "title": "Wicked",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Wicked.2024Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785343381122,
+    "is_tagalog_dub": false
+  },
   "404368": {
     "tmdb_id": "404368",
     "title": "Ralph Breaks the Internet",
