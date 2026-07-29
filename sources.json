@@ -654,6 +654,17 @@
     "date_added": 1784551643373,
     "is_tagalog_dub": false
   },
+  "149870": {
+    "tmdb_id": "149870",
+    "title": "The Wind Rises",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls10.cdnvideo11.shop/hls10/5853a18c98442d00fe6c36bd3b0f2bee/ep.1.1728210844.m3u8",
+    "sub_url": "",
+    "date_added": 1785349282573,
+    "is_tagalog_dub": false
+  },
   "156022": {
     "tmdb_id": "156022",
     "title": "The Equalizer",
