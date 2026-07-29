@@ -119,6 +119,17 @@
     "sub_url": "",
     "date_added": 1783524340512
   },
+  "1771": {
+    "tmdb_id": "1771",
+    "title": "Captain America: The First Avenger",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Captain-America--The-First-Avenger.2011Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785307743305,
+    "is_tagalog_dub": false
+  },
   "1930": {
     "tmdb_id": "1930",
     "title": "The Amazing Spider-Man",
