@@ -720,6 +720,17 @@
     "date_added": 1783989735970,
     "is_tagalog_dub": false
   },
+  "210577": {
+    "tmdb_id": "210577",
+    "title": "Gone Girl",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/gone-girl-zvpEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785324559455,
+    "is_tagalog_dub": false
+  },
   "211672": {
     "tmdb_id": "211672",
     "title": "Minions",
