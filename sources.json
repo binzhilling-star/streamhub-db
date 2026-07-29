@@ -18563,5 +18563,16 @@
     "sub_url": "",
     "date_added": 1785283194428,
     "is_tagalog_dub": false
+  },
+  "112888_S1E1": {
+    "tmdb_id": "112888",
+    "title": "True Beauty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls.cdnvideo11.shop/hls07/975/Ep1_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785284279825,
+    "is_tagalog_dub": false
   }
 }
