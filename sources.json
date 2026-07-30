@@ -27363,5 +27363,93 @@
     "sub_url": "",
     "date_added": 1785389128926,
     "is_tagalog_dub": false
+  },
+  "286801_S1E1": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep1/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E2": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep2/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E3": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep3/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E4": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep4/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E5": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep5/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E6": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep6/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E7": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep7/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
+  },
+  "286801_S1E8": {
+    "tmdb_id": "286801",
+    "title": "Monster: The Ed Gein Story",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Monster-The-Ed-Gein-Story-Ep8/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389676789,
+    "is_tagalog_dub": false
   }
 }
