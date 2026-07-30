@@ -547,6 +547,17 @@
     "date_added": 1785246659049,
     "is_tagalog_dub": false
   },
+  "49444": {
+    "tmdb_id": "49444",
+    "title": "Kung Fu Panda 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Kung-Fu-Panda-2Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785424330815,
+    "is_tagalog_dub": false
+  },
   "52449": {
     "tmdb_id": "52449",
     "title": "Bad Teacher",
