@@ -3649,6 +3649,17 @@
     "date_added": 1785317397953,
     "is_tagalog_dub": false
   },
+  "976573": {
+    "tmdb_id": "976573",
+    "title": "Elemental",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls02.cdnvideo11.shop/hls02/elemental/index.v1.m3u8",
+    "sub_url": "",
+    "date_added": 1785423823270,
+    "is_tagalog_dub": false
+  },
   "980431": {
     "tmdb_id": "980431",
     "title": "Avatar Aang: The Last Airbender",
