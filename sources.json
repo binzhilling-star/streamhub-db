@@ -4488,6 +4488,17 @@
     "sub_url": "",
     "date_added": 1783648447130
   },
+  "1228246": {
+    "tmdb_id": "1228246",
+    "title": "Five Nights at Freddy's 2",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Five-Nights-at-Freddys-2-Ep1/index.m3u8?v=cce2c6f1-aeb5-42e5-93f8-f1115a1a9a0b",
+    "sub_url": "",
+    "date_added": 1785423190994,
+    "is_tagalog_dub": false
+  },
   "1233413": {
     "tmdb_id": "1233413",
     "title": "Sinners",
