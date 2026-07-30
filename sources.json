@@ -98,6 +98,17 @@
     "date_added": 1784025525918,
     "is_tagalog_dub": false
   },
+  "672": {
+    "tmdb_id": "672",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Harry-Potter-And-The-Chamber-Of-SecretsEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785391302772,
+    "is_tagalog_dub": false
+  },
   "674": {
     "tmdb_id": "674",
     "title": "Harry Potter and the Goblet of Fire",
