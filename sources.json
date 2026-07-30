@@ -786,6 +786,17 @@
     "date_added": 1784551643373,
     "is_tagalog_dub": false
   },
+  "140300": {
+    "tmdb_id": "140300",
+    "title": "Kung Fu Panda 3",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Kung-Fu-Panda-3Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785424358604,
+    "is_tagalog_dub": false
+  },
   "149870": {
     "tmdb_id": "149870",
     "title": "The Wind Rises",
