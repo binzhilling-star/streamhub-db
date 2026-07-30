@@ -27451,5 +27451,82 @@
     "sub_url": "",
     "date_added": 1785389676789,
     "is_tagalog_dub": false
+  },
+  "278624_S1E1": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep1/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E2": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep2/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E3": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep3/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E4": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep4/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E5": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep5/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E6": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep6/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
+  },
+  "278624_S1E7": {
+    "tmdb_id": "278624",
+    "title": "Lucky",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://tmp.cdnvideo11.shop/tmp/Lucky-2026-Ep/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785389939788,
+    "is_tagalog_dub": false
   }
 }
