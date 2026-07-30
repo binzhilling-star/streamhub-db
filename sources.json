@@ -28639,5 +28639,93 @@
     "sub_url": "",
     "date_added": 1785418137309,
     "is_tagalog_dub": false
+  },
+  "238458_S1E1": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752290417852.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381753,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E2": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288593442.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E3": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288603895.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E4": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288932842.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E5": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288201812.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E6": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288224085.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E7": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288239552.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
+  },
+  "238458_S1E8": {
+    "tmdb_id": "238458",
+    "title": "Cashero",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1226/21/1766752288560172.mp4/manifest.m3u8",
+    "sub_url": "",
+    "date_added": 1785418381754,
+    "is_tagalog_dub": false
   }
 }
