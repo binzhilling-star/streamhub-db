@@ -28452,5 +28452,71 @@
     "sub_url": "",
     "date_added": 1785391745329,
     "is_tagalog_dub": false
+  },
+  "301412_S1E1": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep1.v165_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
+  },
+  "301412_S1E2": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep2.v751_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
+  },
+  "301412_S1E3": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep3.v784_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
+  },
+  "301412_S1E4": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep4.v193_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
+  },
+  "301412_S1E5": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep5.v186_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
+  },
+  "301412_S1E6": {
+    "tmdb_id": "301412",
+    "title": "Dream to You",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls08.cdnvideo11.shop/hls08/13324/Ep5.v186_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785408433671,
+    "is_tagalog_dub": false
   }
 }
