@@ -28782,5 +28782,60 @@
     "sub_url": "",
     "date_added": 1785418381754,
     "is_tagalog_dub": false
+  },
+  "302919_S1E1": {
+    "tmdb_id": "302919",
+    "title": "The End of an Era",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Taylor-Swift--The-Eras-Tour--The-End-of-an-Era-Ep1/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785423008666,
+    "is_tagalog_dub": false
+  },
+  "302919_S1E2": {
+    "tmdb_id": "302919",
+    "title": "The End of an Era",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Taylor-Swift--The-Eras-Tour--The-End-of-an-Era-Ep2/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785423008666,
+    "is_tagalog_dub": false
+  },
+  "302919_S1E3": {
+    "tmdb_id": "302919",
+    "title": "The End of an Era",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Taylor-Swift--The-Eras-Tour--The-End-of-an-Era-Ep3/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785423008666,
+    "is_tagalog_dub": false
+  },
+  "302919_S1E4": {
+    "tmdb_id": "302919",
+    "title": "The End of an Era",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Taylor-Swift--The-Eras-Tour--The-End-of-an-Era-Ep4/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785423008666,
+    "is_tagalog_dub": false
+  },
+  "302919_S1E5": {
+    "tmdb_id": "302919",
+    "title": "The End of an Era",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls13.cdnvideo11.shop/hls13/Taylor-Swift--The-Eras-Tour--The-End-of-an-Era-Ep5/index.m3u8",
+    "sub_url": "",
+    "date_added": 1785423008666,
+    "is_tagalog_dub": false
   }
 }
