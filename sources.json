@@ -153,6 +153,17 @@
     "date_added": 1783987888354,
     "is_tagalog_dub": false
   },
+  "767": {
+    "tmdb_id": "767",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Harry-Potter-And-The-Half-blood-PrinceEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785391534942,
+    "is_tagalog_dub": false
+  },
   "857": {
     "tmdb_id": "857",
     "title": "Saving Private Ryan",
