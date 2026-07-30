@@ -1093,6 +1093,17 @@
     "date_added": 1785423970818,
     "is_tagalog_dub": false
   },
+  "284054": {
+    "tmdb_id": "284054",
+    "title": "Black Panther",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Black-Panther.2018Ep1.m3u8",
+    "sub_url": "",
+    "date_added": 1785424226024,
+    "is_tagalog_dub": false
+  },
   "286217": {
     "tmdb_id": "286217",
     "title": "The Martian",
