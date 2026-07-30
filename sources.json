@@ -27583,5 +27583,137 @@
     "sub_url": "",
     "date_added": 1785390364916,
     "is_tagalog_dub": false
+  },
+  "297424_S1E1": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep1.v272_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E2": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep2.v390_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E3": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep3.v282_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E4": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep4.v879_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E5": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep5.v823_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E6": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep6.v839_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E7": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hls.cdnvideo11.shop/hls07/12255/Ep7.v762_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E8": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 8,
+    "url": "https://hls.cdnvideo11.shop/hls07/12255/Ep8.v862_index.m3u8?v=2",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E9": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 9,
+    "url": "https://hls08.cdnvideo11.shop/hls08/12255/Ep4.v879_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E10": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 10,
+    "url": "https://hls.cdnvideo11.shop/hls07/12255/Ep10.v983_index.m3u8?v=2",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E11": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 11,
+    "url": "https://hls.cdnvideo11.shop/hls07/12255/Ep11.v987_index.m3u8?v=1",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
+  },
+  "297424_S1E12": {
+    "tmdb_id": "297424",
+    "title": "Our Universe",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 12,
+    "url": "https://hls.cdnvideo11.shop/hls07/12255/Ep12.v876_index.m3u8",
+    "sub_url": "",
+    "date_added": 1785390471156,
+    "is_tagalog_dub": false
   }
 }
