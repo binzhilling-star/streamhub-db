@@ -261,6 +261,17 @@
     "date_added": 1784727553450,
     "is_tagalog_dub": false
   },
+  "9502": {
+    "tmdb_id": "9502",
+    "title": "Kung Fu Panda",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://hls03.cdnvideo11.shop/Kung-Fu-PandaEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785424302460,
+    "is_tagalog_dub": false
+  },
   "9532": {
     "tmdb_id": "9532",
     "title": "Final Destination",
