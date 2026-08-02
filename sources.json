@@ -1,4 +1,15 @@
 {
+  "76": {
+    "tmdb_id": "76",
+    "title": "Before Sunrise",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://tiktoks.animanga.fun/hls/aHR0cHM6Ly9oZDR1LnNicy9obHNtb2QvcDE2LWFkLXNpdGUtc2lnbi1zZy50aWt0b2tjZG4uY29tLzVyZWNhaFRycXBEdVFUNHVFOEhLLWcvb25tL3pieHAxM3NxL2dsaHBpZi90dC9tYXN0ZXIubTN1OD92PTE3NjY4MjY0OTI/index-f2-v1-a1.m3u8",
+    "sub_url": "",
+    "date_added": 1785710283585,
+    "is_tagalog_dub": false
+  },
   "80": {
     "tmdb_id": "80",
     "title": "Before Sunset",
