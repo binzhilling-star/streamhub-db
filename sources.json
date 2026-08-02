@@ -673,7 +673,7 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://cf.streamflixserver.site/movies/2012/sinister.mkv",
+    "url": "https://cf.streamflixserver.site/movies/2012/sinister.mkv",
     "sub_url": "",
     "date_added": 1784728062154,
     "is_tagalog_dub": false
