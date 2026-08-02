@@ -29432,5 +29432,82 @@
     "sub_url": "",
     "date_added": 1785533611096,
     "is_tagalog_dub": false
+  },
+  "194766_S1E1": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 1,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp1.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874698,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E2": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 2,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp2.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E3": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 3,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp3.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E4": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 4,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp4.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E5": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 5,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp5.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E6": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 6,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp6.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
+  },
+  "194766_S1E7": {
+    "tmdb_id": "194766",
+    "title": "The Summer I Turned Pretty",
+    "media_type": "tv",
+    "season": 1,
+    "episode": 7,
+    "url": "https://hls03.cdnvideo11.shop/The-Summer-I-Turned-PrettyEp7.m3u8",
+    "sub_url": "",
+    "date_added": 1785639874711,
+    "is_tagalog_dub": false
   }
 }
