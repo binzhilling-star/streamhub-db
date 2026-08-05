@@ -251,6 +251,17 @@
     "date_added": 1784382292245,
     "is_tagalog_dub": false
   },
+  "1949": {
+    "tmdb_id": "1949",
+    "title": "Zodiac",
+    "media_type": "movie",
+    "season": null,
+    "episode": null,
+    "url": "https://cineverse.directmoviedl.com/upload/2025/Jul/Zodiac-720p/output.m3u8",
+    "sub_url": "",
+    "date_added": 1785924849830,
+    "is_tagalog_dub": false
+  },
   "2062": {
     "tmdb_id": "2062",
     "title": "Ratatouille",
