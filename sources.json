@@ -5308,9 +5308,10 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/trash_202604/trash.mp4",
+    "url": "https://cineverse.directmoviedl.com/upload/2026/Apr/Thrash-2026-720p/output.m3u8",
     "sub_url": "",
-    "date_added": 1783648060659
+    "date_added": 1785922945506,
+    "is_tagalog_dub": false
   },
   "1290821": {
     "tmdb_id": "1290821",
