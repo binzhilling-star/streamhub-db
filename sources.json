@@ -4787,9 +4787,10 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://hls03.cdnvideo11.shop/crime-1012026Ep1.m3u8",
+    "url": "https://cineverse.directmoviedl.com/upload/2026/Mar/Crime-101-2026-720p/output.m3u8",
     "sub_url": "",
-    "date_added": 1783648616484
+    "date_added": 1785923254263,
+    "is_tagalog_dub": false
   },
   "1175942": {
     "tmdb_id": "1175942",
