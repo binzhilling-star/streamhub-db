@@ -3966,10 +3966,11 @@
     "media_type": "movie",
     "season": null,
     "episode": null,
-    "url": "https://archive.org/download/123spayydir/123spayydir.mkv",
+    "url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://archive.org/download/123spayydir/123spayydir.mkv",
     "sub_url": "",
-    "date_added": 1786366264801,
-    "is_tagalog_dub": false
+    "date_added": 1787379999163,
+    "is_tagalog_dub": false,
+    "trailer_url": "https://streamhub-proxy.binzhilling.workers.dev/?url=https://ia601008.us.archive.org/31/items/spaydirtrailef/spaydirtrailef.mp4"
   },
   "974576": {
     "tmdb_id": "974576",
